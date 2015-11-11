@@ -1,0 +1,13 @@
+tmp/*
+downloads/*
+images/*
+movies/*
+thumbnails/*
+*.png
+*.pdf
+*.jpg
+*.gif
+*.tgz
+*.html
+*.inc
+*.js
