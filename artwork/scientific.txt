@@ -1,0 +1,26 @@
+
+.. class:: thumbnails
+
+* .. image:: ../thumbnails/scipy-ecosystem.png
+     :target: ../downloads/scipy-ecosystem.pdf
+* .. image:: ../thumbnails/euroscipy-2013.png
+     :target: http://www.euroscipy.org/
+* .. image:: ../thumbnails/NeurOdyssee.png
+     :target: ../downloads/NeurOdyssee.pdf
+* .. image:: ../thumbnails/CorpsEtRobots-2012.png
+     :target: http://www.labri.fr/user/nrougier/CorpsEtRobots.pdf
+* .. image:: ../thumbnails/euroscipy-2012.png
+     :target: http://www.euroscipy.org/conference/euroscipy2012
+* .. image:: ../thumbnails/cap-2012.png
+     :target: http://cap2012.loria.fr
+* .. image:: ../thumbnails/glumpy.png
+     :target: http://code.google.com/p/glumpy/
+* .. image:: ../thumbnails/neurocomp-2011.png
+     :target: http://2011.neurocomp.fr/
+* .. image:: ../thumbnails/neuron-2010.png
+     :target: http://www.ncbi.nlm.nih.gov/pubmed/21042938
+* .. image:: ../thumbnails/berkeley-2009.png
+     :target: http://sciencereview.berkeley.edu/read/fall-2009/
+* .. image:: ../thumbnails/neurocomp-2006.png
+     :target: http://neurocomp.risc.cnrs.fr/index.php?page=neurocomp-2006
+* .. image:: ../thumbnails/workshop-2003.png

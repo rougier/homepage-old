@@ -1,0 +1,9 @@
+
+.. class:: thumbnails
+
+* .. image:: ../thumbnails/GnomeFlower.jpg
+     :target: ../images/GnomeFlower.jpg
+* .. image:: ../thumbnails/GnomeCloud.jpg
+     :target: ../images/GnomeCloud.jpg
+* .. image:: ../thumbnails/GnomePebble.png
+     :target: ../images/GnomePebble.png

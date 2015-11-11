@@ -1,0 +1,8 @@
+
+.. class:: thumbnails
+
+
+* .. image:: ../thumbnails/BabyGnu-svg.png
+     :target: ../images/BabyGnu.svg
+* .. image:: ../thumbnails/BabyTux-svg.png
+     :target: ../images/BabyTux.svg

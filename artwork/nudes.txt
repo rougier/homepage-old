@@ -1,0 +1,14 @@
+.. class:: thumbnails
+
+* .. image:: ../thumbnails/Victoria1.png
+     :target: ../images/Victoria1.png
+* .. image:: ../thumbnails/Victoria2.png
+     :target: ../images/Victoria2.png
+* .. image:: ../thumbnails/Victoria3.png
+     :target: ../images/Victoria3.png
+* .. image:: ../thumbnails/Victoria4.png
+     :target: ../images/Victoria4.png
+* .. image:: ../thumbnails/Doorway.png
+     :target: ../images/Doorway.png
+* .. image:: ../thumbnails/Venitian.png
+     :target: ../images/Venitian.png

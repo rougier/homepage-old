@@ -1,0 +1,430 @@
+.. _glumpy: http://glumpy.github.io
+.. _vispy: http://vispy.org
+
+
+Tentatives, Tentations, Intentions
+==================================
+:date:`December 15 & 16, 2015`
+
+.. image:: ../images/psyphine.png
+   :class: img-left
+   :target: ../images/psyphine.pdf
+   :scale: 22%
+
+Si l’interaction homme/robot cognitif conduit naturellement à des questions
+d’interprétation du comportement du robot (attribution ou non d’intelligence,
+d’intentionnalité et d'émotions par le sujet, degrés de confiance dans le
+dispositif technique), la gradation des attributions dépasse de loin ce seul
+type d'interaction. De notre appréhension des mouches à celle des chats,
+l'intersubjectivité ainsi que notre tendance naturelle à l'anthropomorphisme
+semblent jouer des rôles centraux : dans certains cas, mais pas dans tous, et
+selon les contextes, nous projetons dans l'autre énormément de notre propre
+cognition, nous tentons et sommes tentés d’attribuer des intentions.  Les
+conditions de l’attribution d’intentions et de conscience paraissent liées à
+celles de l’émergence d’une interaction. L’atelier vise à confronter les
+approches de différentes disciplines (Intelligence artificielle,
+psychologie,anthropologie et philosophie) sur ces questions, comme plus
+généralement sur la cognition, l’intelligence et l’intentionnalité. L'atelier
+sera également l'occasion d'une discussion autour des travaux et
+expérimentations en cours et à venir dans le cadre du projet PsyPhINe.
+
+|
+
+GDR BioComp workshop
+====================
+:date:`October 8, 2015`
+
+I'll give an invited talk for the first meeting of the GDR BioComp around
+"Distributed, Asynchronous, Numerical and Adaptive computing: from neurons to
+behavior."
+
+|
+
+Scipy Lecture Notes 2015
+========================
+:date:`October 1, 2015`
+
+.. image:: ../images/scipy-lecture-notes.png
+   :class: img-left img-polaroid
+   :target: http://www.scipy-lectures.org
+   :scale: 25%
+
+A new version of the "scipy lecture notes" has just been released:
+
+http://www.scipy-lectures.org/
+
+These are a consistent set of materials to learn the core aspects of the
+scientific Python ecosystem, from beginner to expert. They are written
+and maintained by a set of volunteers and published under a CC-BY
+license.
+
+We hope that you will find these notes useful, for you, your colleagues,
+or your students.
+
+|
+
+Démystifions l'IA (French)
+==========================
+:date:`September 26, 2015`
+
+I'll be present at the `NODE <http://bxno.de>`_ to (try to) answer questions
+around Artificial Intelligence with Louis Dorard and Gabriel Synnaeve. The
+session will be chaired by Romain Crestey.
+
+|
+
+RLDM 2015: The formation of habits
+==================================
+:date:`September 6, 2015`
+
+.. image:: ../images/Meropi.png
+   :class: img-left img-polaroid
+   :target: http://videolectures.net/rldm2015_topalidou_hebbian_learning
+   :scale: 33%
+
+`Meropi's talk <http://videolectures.net/rldm2015_topalidou_hebbian_learning>`_
+(my PhD student) is online.
+
+If basal ganglia are widely accepted to participate in the high-level cognitive
+function of decisionmaking, their role is less clear regarding the formation of
+habits. One of the biggest problem is to understand 19 how goal-directed
+actions are transformed into habitual responses, or, said differently, how an
+animal can shift from an action-outcome (A-O) system to a stimulus-response
+(S-R) one while keeping a consistent behaviour. We introduce a computational
+model (basal ganglia, thalamus and cortex) that can solve a simple two
+arm-bandit task using reinforcement learning and explicit valuation of the
+outcome (Guthrie et al. (2013)). Hebbian learning has been added at the
+cortical level such that the model learns each time a move is issued, rewarded
+or not. Then, by inhibiting the output nuclei of the model (GPi), we show how
+learning has been transferred from the basal ganglia to the cortex, simply as a
+consequence of the statistics of the choice. Because best (in the sense of most
+rewarded) actions are chosen more often, this directly impacts the amount of
+Hebbian learning and lead to the formation of habits within the cortex. These
+results have been confirmed in monkeys (unpublished data at the time of
+writing) doing the same tasks where the BG has been inactivated using
+muscimol. This tends to show that the basal ganglia implicitely teach the
+cortex in order for it to learn the values of new options. In the end, the
+cortex is able to solve the task perfectly, even if it exhibits slower reaction
+times.
+
+
+|
+
+EuroScipy 2015: tutorial and best poster
+========================================
+:date:`August 27, 2015`
+
+.. image:: ../images/matplotlib-tutorial.png
+   :scale: 50%
+
+.. image:: ../images/glumpy-poster-thumbnail.png
+   :class: img-polaroid
+   :target: ../images/glumpy-poster.png
+   :scale: 46%
+
+|
+
+The ReScience Journal
+=====================
+:date:`August 15, 2015`
+
+.. image:: ../images/ReScience.png
+   :class: img-left
+   :scale: 40%
+
+I'm pleased to announce the launch of the `ReScience journal
+<https://github.com/ReScience/ReScience/wiki>`_. ReScience is a peer-reviewed
+journal that targets computational research and encourages the explicit
+replication of already published research, promoting new and open-source
+implementations in order to ensure that the original research is
+reproducible. To achieve such a goal, the whole editing chain is radically
+different from any other traditional scientific journal. ReScience lives on
+`github <https://github.com/ReScience/ReScience/wiki>`_ where each new
+implementation is made available together with comments, explanations and
+tests. Each submission takes the form of a pull request that is publicly
+reviewed and tested in order to guarantee that any researcher can re-use it. If
+you ever replicated computational results from the literature in your research,
+ReScience is the perfect place to publish this new implementation.
+
+|
+
+EuroScipy 2015
+==============
+:date:`August 28-29, 2015`
+
+.. image:: ../images/euroscipy-logo.png
+   :class: img-left
+   :scale: 40%
+
+
+With Tiziano Zito, I will co-chair the program of the `EuroSciPy
+<https://www.euroscipy.org/2015/>`_ meeting which is a cross-disciplinary
+gathering focused on the use and development of the Python language in
+scientific research. This event strives to bring together both users and
+developers of scientific tools, as well as academic research and state of the
+art industry.
+
+|
+
+
+Neural Fields, a cognitive approach
+===================================
+:date:`July 18, 2015`
+
+I'll present an advanced tutorial on Neural Fields and cognition at the `24th
+Annual Computational Neuroscience Meeting
+<http://www.cnsorg.org/cns-2015-prague>`_ in Prague.
+
+|
+
+VisPy: Harnessing The GPU For Fast, High-Level Visualization
+============================================================
+:date:`July 8, 2015`
+
+Luke Campagnola will present our `VisPy project at Scipy 2015, Austin, Texas
+<https://www.youtube.com/watch?v=_3YoaeoiIFI>`_
+
+The growing availability of large, multidimensional data sets has created
+demand for high-performance, interactive visualization tools.  VisPy leverages
+the GPU to provide fast, interactive, and beautiful visualizations in a
+high-level API.  This presentation will introduce the main features,
+architecture, and techniques used in VisPy.
+
+Make sure to have a look at our new `website <http://vispy.org>`_
+
+|
+
+Intelligence Artificielle: Mythes et Réalités
+=============================================
+:date:`June 15, 2015`
+
+.. image:: ../images/cerveau.jpg
+   :class: img-left
+   :scale: 50%
+
+L’intelligence artificielle, ou IA, est officiellement née en 1956 lors d'une
+conférence à Dartmouth (USA). Même si les recherches ont de fait commencé dès
+l’après-guerre (par exemple le « Test de Turing » en 1950), cette conférence
+est historique en ce qu’elle a rassemblé en un même lieu presque toutes les
+figures emblématiques de l’IA, notamment John McCarthy, mathématicien, Herbert
+Simon, théoricien des organisations, Allen Newell, mathématicien, Claude
+Shannon, père de la théorie de l’information et Marvin Minsky,
+mathématicien. Ces pionniers rêvaient alors de construire des machines pouvant
+égaler voire surpasser l’intelligence humaine, sur la base des nouveaux moyens
+de l’informatique naissante. C’était un projet d’une ambition folle, puisqu’à
+cette époque tout restait à faire. Or, malgré les immenses difficultés qui se
+trouvaient devant eux, ces chercheurs et beaucoup d’autres vont rapidement
+obtenir des résultats qui feront date dans l'histoire de l'informatique.
+
+La suite sur `Interstices... <https://interstices.info/jcms/p_84122/lintelligence-artificielle-mythes-et-realites>`_
+
+|
+
+Reinforcement Learning and Decision Making
+==========================================
+:date:`June 7, 2015 - June 10, 2015`
+
+.. image:: ../images/model-BG-THAL-CTX.png
+   :class: img-left
+   :scale: 50%
+
+If basal ganglia are widely accepted to participate in the high-level cognitive
+function of decision- making, their role is less clear regarding the formation
+of habits. One of the biggest problem is to understand how goal-directed
+actions are transformed into habitual responses, or, said differently, how an
+animal can shift from an action-outcome (A-O) system to a stimulus-response
+(S-R) one while keeping a consistent behaviour. We introduce a computational
+model (basal ganglia, thalamus and cortex) that can solve a sim- ple two
+arm-bandit task using reinforcement learning and explicit valuation of the
+outcome (Guthrie et al. (2013)). Hebbian learning has been added at the
+cortical level such that the model learns each time a move is issued, rewarded
+or not. Then, by inhibiting the output nuclei of the model (GPi), we show how
+learning has been transferred from the basal ganglia to the cortex, simply as a
+consequence of the statistics of the choice. Because best (in the sense of most
+rewarded) actions are chosen more often, this directly impacts the amount of
+Hebbian learning and lead to the formation of habits within the cortex. These
+results have been confirmed in monkeys (unpublished data at the time of
+writing) doing the same tasks where the BG has been inactivated using
+muscimol. This tends to show that the basal ganglia implicitely teach the
+cortex in order for it to learn the values of new options. In the end, the
+cortex is able to solve the task perfectly, even if it exhibits slower reaction
+times.
+
+|
+
+Pint of Science (Bordeaux)
+==========================
+:date:`May 18, 2015`
+
+.. image:: ../images/PintOfScience.jpg
+   :class: img-left
+   :scale: 30%
+
+Je ferais un intervention dans le cadre du festival `Pint of Science
+<http://pintofscience.fr>`_ sur l'histoire de l'intelligence artificielle.
+
+L'intelligence artificielle a nourri de nombreux fantasmes depuis sa création
+et encore aujourd'hui, certain redoutent l'avénement de robots qui pourraient
+venir détruire l'humanité à plus ou moins long terme en invoquant la
+singularité. Mais où en sommes nous exactement aujourd'hui ? Peut-on réellement
+comparer les prouesses de l'intelligence artificielle aux merveilles de
+l'esprit humain ? Nous verrons au travers de l'histoire de l'IA que rien n'est
+simple et qu'il est facile de donner l'apparence de l'intelligence sans l'être
+pour autant. Et d'ailleurs, qu'est ce que l'intelligence ?
+
+
+|
+
+Thinkovery #3
+=============
+:date:`April 15, 2015`
+
+.. image:: ../images/thinkovery.jpg
+   :class: img-left
+   :scale: 20%
+
+I've got interviewed for `Thinkovery #3 <http://www.thinkovery.com>`_ about
+Artificial Intelligence:
+
+
+|
+
+Neurocognitive bases of decision making
+=======================================
+:date:`April 8, 2015`
+
+During the Data Blitz session of the `Neurocognitive bases of decision making
+<http://www.bordeaux-neurocampus.fr/fr/manifestations-scientifiques/seminaires-fbn-2015/sympo-decision-making.html>`_
+symposium, I will present our results on the formation of habits in the
+prefrontal cortex and how the basal ganglia implicitly supervises the cortex
+through the biasing of Hebbian learning. Those results have been confirmed in
+the monkey where the experimental dissociation between acquisition and
+expression sheds light on respective role of the the basal and the cortex in
+the initial formation and the later expression of habits.
+
+|
+
+
+Vispy sprint at the Collège de France
+=====================================
+:date:`March 24-27, 2015`
+
+The vispy_ sprint has been held at the `Collège de France
+<http://www.college-de-france.fr/>`_ during 4 days in presence of Cyrille
+Rossant, Luke Campagnola, Almar Klein, Eric Larson, Irwin Zaid, Max Hunter and
+myself. We made more than 100 commits, closed a number of issues and integrated
+the collection system from glumpy_ and we made our first choropleth.
+
+|
+
+Chappie / Semaine du Cerveau
+============================
+:date:`March 20, 2015`
+
+.. image:: ../images/Chappie.jpg
+   :class: img-left img-polaroid
+   :scale: 30%
+
+I'll be present at 19h00 at the Mérignac movie theater with Serge Ahmed to (try
+to) answer questions related to the `Chappie
+<http://www.imdb.com/title/tt1823672/>`_ movie by Neill Blomkamp.
+
+*In the near future, crime is patrolled by a mechanized police force. When one
+police droid, Chappie, is stolen and given new programming, he becomes the
+first robot with the ability to think and feel for himself.*
+
+|
+
+A Long Journey ...
+==================
+:date:`February 16, 2015`
+
+Computational neuroscience is a powerful ally in our quest to understand the
+brain. Even the most simple model can shed light on the role of this or that
+structure and propose new hypothesis concerning the overall brain
+organization. However, any model in Science is doomed to be proved wrong or
+incomplete and replaced by a more accurate one. In the meantime, for such
+replacement to happen, we have first to make sure that models are actually
+reproducible such that they can be tested, evaluated, criticized and ultimately
+modified, replaced or even rejected. This is where the shoe pinches. If we
+cannot reproduce a model in the first place, we're doomed to re-invent the
+wheel again and again, preventing us from building an incremental computational
+knowledge of the brain.
+
+More at `Frontiers <http://journal.frontiersin.org/article/10.3389/fncom.2015.00030/full>`_
+
+|
+
+UniThé ou Café ?
+================
+:date:`February 17, 2015`
+
+.. image:: ../images/Unithe.jpg
+   :class: img-left img-polaroid
+   :scale: 33%
+
+L'attention visuelle est un mécanisme cérébral qui permet de sélectionner les
+informations visuelles que le cerveau va traiter en priorité, en laissant de
+côté (presque) toutes les autres informations.
+
+En fait, la vision telle qu'on la ressent est une illusion. Cela nous permet,
+par exemple, de ne pas se rendre compte de cette tâche noire sur notre rétine
+(comment ça vous ne la voyez pas ?).
+
+À l'aide de modèles informatiques, Nicolas Rougier (Mnemosyne) nous expliquera
+les mécanismes de l'attention visuelle et nous montrera à quel point nous
+sommes aveugles !
+
+|
+
+Glumpy release 1.0
+==================
+:date:`January 17, 2015`
+
+.. image:: ../images/glumpy-teaser.png
+   :scale: 75%
+   :target: http://glumpy.github.io
+
+After intense refactoring, `glumpy 1.0 <http://glumpy.github.io>`_ is
+out. Glumpy is a python library for scientific visualization that is both fast,
+scalable and beautiful. Glumpy offers an intuitive interface between numpy and
+modern OpenGL and benefits from the latest advances in computer graphics (well,
+at least the `ones
+<http://www.labri.fr/perso/nrougier/research/publications.html>`_ I made).
+
+|
+
+L'intelligence Artificielle n'aura pas lieu
+===========================================
+:date:`January, 14, 2015`
+
+A `post
+<http://www.scilogs.fr/intelligence-mecanique/lintelligence-artificielle-naura-pas-lieu/>`_
+(in French) about misconceptions in Artificial Intelligence and why the
+singularity won't happen any time soon.
+
+.. image:: ../images/games.jpg
+   :class: img-left img-polaroid
+
+"Nous pensions dépassé le fantasme d'une « intelligence artificielle qui
+pourrait mettre fin à l'humanité » ou bien surpasser l'intelligence humaine. Et
+pourtant c'est bien dans la bouche d'un grand scientifique que cette
+sempiternelle contre-vérité scientifique revient.
+
+Bien entendu, cet humain a aussi le droit de dire des conneries, surtout quand
+il s'exprime sous la pression médiatique hors de son champ de connaissance avec
+des arguments qui ne relèvent pas d'une démarche scientifique, mais d'un
+pourquoi pas qui n'a rien de réfutable"...
+
+More at `SciLogs <http://www.scilogs.fr/intelligence-mecanique/lintelligence-artificielle-naura-pas-lieu/>`_
+
+|
+
+Visualization avec Python
+=========================
+:date:`January, 8, 2015`
+
+The presentation I gave at PyconFR 2014 (in French) is `online
+<http://www.infoq.com/fr/presentations/visualisation-python>`_
+
+|

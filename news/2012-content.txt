@@ -1,0 +1,235 @@
+Baby GNU & Baby TUX 3D printed
+==============================
+:date:`December 12, 2012`
+
+.. image:: ../images/BabyGnu-BabyTux-small.jpg
+   :target: ../images/BabyGnu-BabyTux.jpg
+   :class: img-right img-polaroid
+   :width: 30%
+
+I created the Baby Tux in 2003 for my gnubiff software because I wanted to have
+some animation saying "you've got mail". The result was a cute jumping baby tux
+that was made using constructive solid geometry (CSG) and some macros borrowed
+from Rune S. Johansen and Chris Colefax. Later, in 2005, I wanted to learn
+Blender so I tried to model the baby GNU.  Alain Dutech recently re-designed
+the baby Tux in Blender, starting from scratch with the help of the original
+Povray file. We made them 3d printed, aren't they cute ?
+
+|
+
+DANA: Distributed numerical and adaptive modelling
+==================================================
+:date:`December 3, 2012`
+
+*DANA: Distributed numerical and adaptive modelling framework*, Nicolas
+P. Rougier, Jérémy Fix, **Network: Computation in Neural Systems** 2012,
+Vol. 23, No. 4 , Pages 237-253
+
+**Abstract.** DANA is a python framework whose computational paradigm is
+grounded on the notion of a unit that is essentially a set of time dependent
+values varying under the influence of other units via adaptive weighted
+connections. The evolution of a unit's value are defined by a set of
+differential equations expressed in standard mathematical notation which
+greatly ease their definition. The units are organized into groups that form a
+model. Each unit can be connected to any other unit (including itself) using a
+weighted connection. The DANA framework offers a set of core objects needed to
+design and run such models. The modeler only has to define the equations of a
+unit as well as the equations governing the training of the connections. The
+simulation is completely transparent to the modeler and is handled by
+DANA. This allows DANA to be used for a wide range of numerical and distributed
+models as long as they fit the proposed framework (e.g. cellular automata,
+reaction-diffusion system, decentralized neural networks, recurrent neural
+networks, kernel-based image processing, etc.).
+
+`Read more... <http://informahealthcare.com/doi/abs/10.3109/0954898X.2012.721573>`_
+
+|
+
+Robotics and Neuroscience colloquium
+====================================
+:date:`November 30, 2012`
+
+I'll give an invited talk at the Robotics and Neuroscience colloquium. More
+information `here <http://www.gdr-robotique.org/gt.php?id=9>`_
+
+|
+
+Les Robots, le futur... demain ? (French)
+=========================================
+:date:`November 22, 2012`
+
+I'll be present at *Les cafés des sciences et techniques*, Bibliothèque
+Intercommunale, 48 Rue Saint Michel, Epinal
+
+|
+
+Corps & Robots (French)
+=======================
+:date:`October 18, 2012`
+
+.. image:: ../thumbnails/CorpsEtRobots.png
+   :width: 30%
+   :class: img-right img-polaroid
+
+La théorie de la cognition incarnée nous a enseigné, il y a maintenant quelques
+années, que l'évolution d'un modèle dans le monde réel (sous forme d'un corps
+robotique) lui donne un accès direct et privilégié aux lois qui régissent ce
+même monde. Nul besoin de modéliser les lois de la gravité, le modèle s'y
+trouvera de facto confronté s'il essaye de prendre son envol depuis le haut
+d'un escalier. Nul besoin de connaître les lois de frottements entre deux
+solides, le modèle ne pourra de toute façon jamais réaliser une commande
+parfaite de roulement sur un sol irrégulier.
+
+Or, si cette théorie de l'incarnation représente aujourd'hui une des voies
+privilégiées pour l'exploration et la compréhension de la cognition, elle
+semble difficile à appréhender dans le cadre des nouveaux dispositifs
+technologiques qui sont apparus au cours de ces dernières années. Ainsi, les
+appartements dits intelligents viennent bouleverser la notion de corps en
+proposant des appartements instrumentalisés permettant d'interagir avec
+eux. Mais quel type de cognition peut alors émerger de cette étrange
+confrontation au réel ? De même, les interfaces cerveaux-ordinateurs viennent
+brouiller les cartes en ce sens qu'une partie de la cognition est assurée par
+un cerveau humain alors qu'une autre partie relève de la machine et doit se
+développer en symbiose. Mais qui doit s'adapter à l'autre alors ?
+
+Ces nouvelles possibilités de confrontation au réel pour les modèles offrent
+donc de nouvelles perspectives à la fois dans le champ de l'intelligence
+artificielle et dans celui de la philosophie. Nous proposons donc de discuter
+autour de ces questions au travers des interventions de modélisateurs et de
+philosophes.
+
+|
+
+Wahiba's defense
+================
+
+:date:`September 26, 2012` Wahiba Taouali, *Modélisation de populations
+neuronales pour l'intégration visuo-motrice: Dynamiques et Décisions*
+
+**Abstract.** Within the context of enaction and a global approach to
+perception, we focused on the characteristics of neural computation necessary
+to understand the relationship between structures in the brain and their
+functions. We first considered computational problems related to the
+discretization of differential equations that govern the studied systems and
+the synchronous and asynchronous evaluation schemes. Then, we investigated a
+basic functional level : the transformation of spatial sensory representations
+into temporal motor actions within the visual-motor system. We focused on the
+visual flow from the retina to the superior colliculus to propose a minimalist
+model of automatic encoding of saccades to visual targets. This model, based on
+simple local rules (CNFT and logarithmic projection) in a homogeneous
+population and using a sequential processing, reproduces and explains several
+results of biological experiments. It is then considered as a robust and
+efficient basic model. Finally, we investigated a more general functional level
+by proposing a computational model of the basal ganglia motor loop. This model
+integrates sensory, motor and motivational flows to perform a global decision
+based on local assessments. We implemented an adaptive process for action
+selection and context encoding through an innovative mechanism that allows to
+form the basic circuit for other cortico-basal loops. This mechanism allows to
+create internal repre- sentations according to the enactive approach that
+opposes the computer metaphor of the brain. Both models have interesting
+dynamics to study from whether a biological point of view or a computational
+numerical one.
+
+|
+
+John Hunter 1968-2012
+=====================
+
+:date:`August 28, 2012` John Hunter, author of Matplotlib, founding board
+member of NumFOCUS, husband to Miriam, and father to three daughters: Clara,
+Ava, and Rahel, was diagnosed with cancer in late July 2012 after returning
+from his keynote address at SciPy in Austin, TX. He passed away on August 28th
+from complications arising from necessary cancer treatment. It’s a very sad
+day. John’s work has been a never ending source of beauty and inspiration.
+Rest in peace, John, you will be `missed <http://numfocus.org/johnhunter/>`_.
+
+|
+
+Matplotlib tutorial
+===================
+:date:`August 10, 2012`
+
+Matplotlib tutorial for Euroscipy 2012 is available at this `address
+<http://www.labri.fr/perso/nrougier/teaching/matplotlib/>`_. Matplotlib is probably
+the single most used Python package for 2D-graphics. It provides both a very
+quick way to visualize data from Python and publication-quality figures in many
+formats. We are going to explore matplotlib in interactive mode covering most
+common cases. This tutorial is based on Mike Müller's tutorial available from
+the scipy lecture notes. All code and material is licensed under a Creative
+Commons Attribution 3.0 United States License (CC-by).
+
+
+|
+
+Plos ONE
+========
+:date:`July 12, 2012`
+
+G.Is. Detorakis, N.P. Rougier, *A Neural Field Model of the Somatosensory
+Cortex: Formation, Maintenance and Reorganization of Ordered Topographic Maps*,
+**PLoS** ONE 7(7), 2012, doi:10.1371/journal.pone.0040257
+
+**Abstract.** We investigate the formation and maintenance of ordered
+topographic maps in the primary somatosensory cortex as well as the
+reorganization of representations after sensory deprivation or cortical
+lesion. We consider both the critical period (postnatal) where representations
+are shaped and the post-critical period where representations are maintained
+and possibly reorganized. We hypothesize that feed-forward thalamocortical
+connections are an adequate site of plasticity while cortico-cortical
+connections are believed to drive a competitive mechanism that is critical for
+learning. We model a small skin patch located on the distal phalangeal surface
+of a digit as a set of 256 Merkel ending complexes (MEC) that feed a
+computational model of the primary somatosensory cortex (area 3b). This model
+is a two-dimensional neural field where spatially localized solutions
+(a.k.a. bumps) drive cortical plasticity through a Hebbian-like learning
+rule. Simulations explain the initial formation of ordered representations
+following repetitive and random stimulations of the skin patch. Skin lesions as
+well as cortical lesions are also studied and results confirm the possibility
+to reorganize representations using the same learning rule and depending on the
+type of the lesion. For severe lesions, the model suggests that
+cortico-cortical connections may play an important role in complete recovery.
+
+`Read more... <http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0040257>`_
+
+|
+
+Emacs
+=====
+:date:`June 22, 2012`
+
+Emacs `cheat sheet mode <../downloads/sheet-mode.el>`_ (output from this
+`file <../downloads/emacs.sheet>`_ below).
+
+|
+
+Science Film Festival
+=====================
+:date:`June 10, 2012`
+
+I'll be present at the Science Film Festival in Nancy to answer questions
+related to robotics.
+
+|
+
+Emacs
+=====
+:date:`March 6, 2012`
+
+Some fun with emacs mode-line:
+
+.. image:: ../images/emacs-powerline.png
+   :class: img-polaroid
+
+|
+
+See more at http://www.emacswiki.org/emacs/PowerLine
+
+|
+
+Matplotlib gallery
+==================
+:date:`February 22, 2012`
+
+A matplotlib gallery is available at http://www.labri.fr/perso/nrougier/coding/gallery/
+
+|

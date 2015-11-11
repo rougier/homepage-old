@@ -1,0 +1,214 @@
+/* ------------------------------------------------------------------------- *
+ * Main                                                                      *
+ * ------------------------------------------------------------------------- */
+html, body
+{
+/*
+    font-family: 'HelveticaNeue-Light',
+                 'Helvetica Neue Light',
+                 'Helvetica Neue',
+                 'Helvetica',
+                 'Arial',
+                 'Lucida Grande';
+*/
+    font-family: 'Source Sans Pro';
+    font-weight: 300;
+    font-size: 15px;
+}
+
+strong {
+    font-family: 'Source Sans Pro';
+    font-weight: 500;
+}
+
+p {
+/*    text-align: justify;*/
+}
+
+
+.sidebar .name {
+    display: block;
+    font-size: 125%;
+    font-weight: 300;
+}
+
+.line {
+    clear:both;
+}
+
+.img-artwork
+{
+    margin-left: -5%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 300;
+/*    clear: both;*/
+}
+
+h1 { font-size: 200%; }
+h2 { font-size: 140%; }
+h3 { font-size: 120%; }
+h4,h5,h6 { font-size: 100%; }
+
+
+h2 {
+    padding-left: +20px;
+    margin-left:  -20px;
+    border-bottom: 1px solid #000;
+    width: 80%;
+}
+
+h3 {
+    font-weight: 500;
+    color: #333355;
+}
+
+h3:before {
+   content: " ➔ ";
+}
+
+
+blockquote p {
+    font-family: 'Source Sans Pro';
+    font-weight: 300;
+    font-size: 100%;
+}
+
+/*
+h3 {
+    color: #ffffff;
+    background-color: #aaaabb;
+    border-radius: 3px;
+    padding: 6px;
+    margin: 50px 0 10px 0;
+    line-height:1em;
+    display: inline-block;
+    clear:both;
+}
+*/
+
+.date {
+/*    color: #99f;*/
+    text-align: right;
+    margin-right: 20%;
+    font-weight: 500;
+    display:block;
+    margin-top: -.75em;
+    margin-bottom: 1.5em;
+}
+
+.date-left {
+/*    color: #99f;*/
+    text-align: left;
+    /*margin-right: 20%;*/
+    font-weight: 500;
+    display:block;
+    margin-top: -.75em;
+    margin-bottom: 1.5em;
+}
+
+ul p {
+    text-align: left;
+}
+
+.img-right {
+    float: right;
+    margin-left: 8px;
+}
+.img-left {
+    float: left;
+    margin-right: 8px;
+}
+
+.img-round {
+    border: 1px solid #9999aa;
+    border-radius:         5px;
+    -moz-border-radius:    5px;
+    -khtml-border-radius:  5px;
+    -webkit-border-radius: 5px;
+    padding: 5px;
+}
+
+
+
+/* ------------------------------------------------------------------------- *
+ * Sidebar                                                                   *
+ * ------------------------------------------------------------------------- */
+
+.sidebar {
+    padding-top: 1em;
+}
+
+.sidebar-title {
+    font-size: 150%;
+    font-weight: 300;
+}
+
+.sidebar ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    padding-top: 2em;
+    padding-bottom: 1em;
+}
+
+.sidebar p {
+    padding: 0;
+    margin: 0;
+    padding-bottom: .1em;
+}
+
+.sidebar ul p {
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    padding-top: .25em;
+}
+
+.sidebar ul ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    margin-top: .5em;
+    margin-bottom: .5em;
+    margin-left: 10px;
+    padding-left: 10px;
+    border-left: 3px solid #eeeeff;
+}
+.sidebar ul ul p {
+    padding: 0;
+    margin: 0;
+    padding-top: .25em;
+}
+
+/* ------------------------------------------------------------------------- *
+ * Roles                                                                     *
+ * ------------------------------------------------------------------------- */
+.contact {
+    font-weight: 500;
+}
+
+/* ------------------------------------------------------------------------- *
+ * Header                                                                    *
+ * ------------------------------------------------------------------------- */
+.header {
+    margin-bottom: 5em;
+    color: #fff;
+}
+.header hr {
+    display: none;
+}
+
+
+/* ------------------------------------------------------------------------- *
+ * Header                                                                    *
+ * ------------------------------------------------------------------------- */
+.footer {
+    margin-top: 5em;
+    color: #fff;
+}
+
+.footer hr {
+    display: none;
+}

@@ -1,0 +1,20 @@
+.. sidebar:: Nicolas P. Rougier
+
+   Nicolas.Rougier@inria.fr
+
+   * `Home     <../index.html>`_
+   * `Research <../research/index.html>`_
+   * `Teaching <../teaching/index.html>`_
+
+     - `Scientific Visualization`_
+     - `Numerical computing`_
+     - `C++ Crash Course`_
+     - `Reinforcement Learning`_
+     - `Neural Networks`_
+     - `Computer Security`_
+     - `Visual attention`_
+
+   * `Coding   <../coding/index.html>`_
+   * `Artwork  <../artwork/index.html>`_
+   * `News     <../news/index.html>`_
+   * `Blog     <../blog/index.html>`_

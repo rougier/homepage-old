@@ -1,0 +1,171 @@
+
+Article on computer/brain memory for general audience
+=====================================================
+:date:`December 10, 2011`
+
+The article is in French.  Link: `Revue-Univers-Cité
+<http://www.univ-metz.fr/UPV-M/Haut/Menu-principal/culture-et-sport/culture-scientifique-et-technique/Revue-Univers-Cit>`_
+
+
+|
+
+Scientific article using ReST
+=============================
+:date:`October 11, 2011`
+
+`Here <../coding/article/article.html>`_ is an attempt at (re-)writing an
+article (published in NeuroComputing) using the ReST format and a modified
+rst2html.py
+
+|
+
+Brand new website
+=================
+:date:`October 11, 2011`
+
+This brand new website is online !
+
+|
+
+My very first article
+=====================
+:date:`March, 1988 (not a typo)`
+
+While searching my computer for some files, I stumbled upon my very first
+article that I published in March 1988 when I was 16. It was in a French
+quaterly magazine dedicated to Apple and I sent a program in Apple Basic that
+was magnifying some part of the screen on Apple IIe/IIc.
+
+.. image::  ../thumbnails/cover.png
+   :class: img-polaroid
+   :width: 22%
+   :target: ../images/cover.png
+.. image::  ../thumbnails/page-1.png
+   :class: img-polaroid
+   :width: 22%
+   :target: ../images/page-1.png
+.. image::  ../thumbnails/page-60.png
+   :class: img-polaroid
+   :width: 22%
+   :target: ../images/page-60.png
+.. image::  ../thumbnails/page-61.png
+   :class: img-polaroid
+   :width: 22%
+   :target: ../images/page-61.png
+
+
+|
+
+Interview
+=========
+:date:`Septembre 20, 2011`
+
+I got interviewed by Françoise Breton for INRIA website.
+
+*Nicolas Rougier, membre de l’équipe Cortex (Nancy), s’intéresse au
+fonctionnement du cerveau. Il cherche à comprendre l’émergence de phénomènes
+aussi complexes que la cognition ou la conscience. Une démarche dans laquelle
+la modélisation est primordiale, le recours à la robotique est courant, et la
+reproduction fidèle des grands principes biologiques est un souci permanent.*
+
+`Read more...  <http://www.inria.fr/centre/nancy/actualites/modele-du-cerveau-pensee-et-robot>`_
+
+|
+
+glumpy 0.2.0 has been released
+==============================
+:date:`September 15, 2011`
+
+Major release with a lot of new features:
+
+More info at `code.google.com/p/glumpy <http://code.google.com/p/glumpy>`_
+
+|
+
+Freetype-gl on OpenGL.org
+=========================
+:date:`August 01, 2011`
+
+*« Combining Freetype with a contour rendering method based on distance fields,
+Nicolas Rougier has created a library to display infinitely scalable
+anti-aliased text in OpenGL. The library, simply called freetype-gl, is BSD
+licensed and can be used in commercial products. This is a way to finally get
+rid of pixelated and blurred text in real time content. The rendering technique
+extends to monochrome line art in general, although this particular library is
+aimed specifically at rendering Freetype fonts. Code and more information
+available online. »*
+
+Yeah !
+
+`Link <http://www.opengl.org/news/comments/infinitely-scalable-freetype-text-in-opengl/>`_
+
+|
+
+
+The best poster I've ever made
+==============================
+:date:`August, 2011`
+
+.. image:: ../thumbnails/glumpy.png
+   :class: img-left img-polaroid
+   :width: 15%
+   :target: ../images/glumpy.pdf
+
+I've made this poster for the EuroScipy conference in Paris, 2011. I made it
+using the Comic Life software available on MacOS (with a trial period of 30
+days). It took me only 2/3 days to make it. The good point is that the poster
+attracted a lot of people. The drawback is that one question out of two was
+"Hey, how did you made that cool poster ?"
+
+Anyway, I would recommend to anyone. It's lot of fun.
+
+|
+
+
+
+Research in Computer Science
+============================
+:date:`July, 2011`
+
+.. image::  ../thumbnails/RechercheInformatique.png
+   :class: img-left img-polaroid
+   :width: 10%
+   :target: ../images/RechercheInformatique.png
+
+Zoé finished her training period and here is the final result. The goal was to
+design a simple poster to explain research in Computer Science to kids in
+junior high schools.
+
+|
+
+Habilitation à Diriger les Recherches
+=====================================
+
+:date:`May 19, 2011`
+
+I'll defend my `HDR
+<http://tel.archives-ouvertes.fr/docs/00/59/67/40/PDF/NicolasRougier-HDR.pdf>`_
+(`Habilitation à Diriger les Recherches
+<http://en.wikipedia.org/wiki/Habilitation>`_) at Loria laboratory at 14h00,
+Room C005.
+
+**Update**: I got it !
+
+|
+
+
+Visual Attention for Human Computer Interaction
+===============================================
+
+:date:`December, 2010` I'll be in Tokyo for one month to give a serie of
+lecture on Visual Attention for Human Computer Interaction: Analysis and
+Model at `NII <http://www.nii.ac.jp/en/>`_ 20F 2006 Seminar Room.
+
+* Lecture 1: *Embodied Cognition* (Dec. 2nd, 13:30-15:00)
+* Lecture 2: *Visual Attention* (Dec. 2nd 15:30-17:00)
+* Lecture 3: *Dynamic Neural Fields* (Dec. 3rd 13:30-15:00)
+* Lecture 4: *Models of Visual Attention* (Dec. 3rd 15:30-17:00)
+
+Slides are available from the `teaching <../teaching/index.html>`_ page.
+
+|

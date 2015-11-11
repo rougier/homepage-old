@@ -1,0 +1,425 @@
+3 days in Hyderabad, first time in India
+========================================
+:date:`December, 7-11, 2014`
+
+I'll be visiting our Indian partners in Hyderabad for the BGaL (Basal Ganglia at
+Large) associated team:
+
+Even if a lot remains to be done to understand the complexity of the brain
+organization, we believe that the domain is mature enough, with
+well-established models and well-recognized principles of information
+processing, to attack a new aspect of numerical simulation, with the
+implementation of neuronal models at a large scale.
+
+|
+
+Prospectom 2014
+===============
+:date:`November 20-21, 2014`
+
+I've been invited to participate to the `prospectom
+<http://prospectom.liglab.fr/atelier-2014/index.html>`_ workshop on
+computational proteomics (large-scale study of proteins, particularly their
+structures and functions) in order to work on new visualizations.
+
+|
+
+Antialiased 2D Grid, Marker, and Arrow Shaders
+==============================================
+:date:`November 1st, 2014`
+
+.. image:: ../images/JCGT-3.png
+   :scale: 75%
+   :target: http://jcgt.org/published/0003/04/01/
+   :class: img-left
+
+**Abstract** Grids, markers, and arrows are important components in scientific
+visualisation. Grids are widely used in scientific plots and help visually
+locate data. Markers visualize individual points and aggregated data. Quiver
+plots show vector fields, such as a velocity buffer, through regularly-placed
+arrows. Being able to draw these components quickly is critical if one wants to
+offer interactive visualisation. This article provides algorithms with GLSL
+implementations for drawing grids, markers, and arrows using implicit surfaces
+that make it possible quickly render pixel-perfect antialiased shapes.
+
+Full article available from http://jcgt.org/published/0003/04/01/
+
+|
+
+How to dodge the pitfalls of bad illustrations
+==============================================
+:date:`September 24, 2014`
+
+Nature `highlighted
+<http://www.nature.com/news/how-to-draw-perfect-figures-1.15996>`_
+the Ten Simple Rules article:
+
+.. image:: ../images/Nature.jpg
+   :scale: 50%
+   :class: img-left
+
+*Jumbled charts, misleading graphs, axes to nowhere — illustrations in a paper
+can go wrong in many ways. Now, a treatise that attempts to rescue science
+from bad figures has been getting rave reviews on social media. Researchers
+have also been discussing a classic paper extolling the virtues of scientific
+stupidity.*
+
+See also `here <http://www.nature.com/news/how-to-dodge-the-pitfalls-of-bad-illustrations-1.15999>`_.
+
+|
+
+Ten Simple Rules for Better Figures
+===================================
+:date:`September 11, 2014`
+
+.. image:: ../images/PLOS-logo.jpg
+   :scale: 30%
+   :class: img-left
+
+Scientific visualization is classically defined as the process of graphically
+displaying scientific data. However, this process is far from direct or
+automatic. There are so many different ways to represent the same data: scatter
+plots, linear plots, bar plots, and pie charts, to name just a
+few. Furthermore, the same data, using the same type of plot, may be perceived
+very differently depending on who is looking at the figure. A more accurate
+definition for scientific visualization would be a graphical interface between
+people and data. In this short article, we do not pretend to explain everything
+about this interface; rather, see [1], [2] for introductory work. Instead we
+aim to provide a basic set of rules to improve figure design and to explain
+some of the common pitfalls.
+
+More at `PLOS Computational Biology
+<http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003833>`_
+and `Nature <http://www.nature.com/news/how-to-dodge-the-pitfalls-of-bad-illustrations-1.15999>`_
+
+|
+
+Glumpy reboot !
+===============
+:date:`September 7, 2014`
+
+.. image:: ../images/glumpy-teaser.png
+   :scale: 75%
+   :target: http://glumpy.github.io
+
+|
+
+Bernstein Conference
+====================
+:date:`September 2-5, 2014`
+
+.. image:: ../images/bccn-logo.png
+   :scale: 30%
+   :class: img-left
+
+I'll give an invited talk about cortical plasticity at the *Approaching
+Cognition from the Computational Neuroscience perspective* satelite workshop of
+the Bernstein Conference organized by Yulia Sandamirskaya.
+
+The description of neuronal dynamics at the level of neural population activity
+correlates most closely with signatures of cognitive processes in human
+behavior. Indeed, this level of description seems to be privileged in achieving
+an understanding of cognition, e.g. the processes behind attention,
+habituation, or decision making, in neural terms. To move beyond mere
+correlation, however, architectural models are needed that are based in
+neuronal principles, but which also link to the sensory surfaces and the motor
+processes to ground cognition and to generate overt behavior. Critically, both
+neural and behavioral signatures of the process accounts must be identified and
+made accessible to experimental observation.
+
+A central issue in such a research program is to bring together constraints
+that come from computational neuroscience and reflect the mechanistic
+properties of neural populations and their dynamics with constraints that come
+from cognitive science and define the central elements of cognition that neural
+accounts must address.  Thus, the goal of the workshop is to illuminate the
+problems in the interface between the computational neuroscience and cognitive
+science and search for answers to the question: How can we achieve models,
+which explain behavior and cognitive processes and remain neurally realistic?
+
+
+|
+
+GNU/Linux Mag Hors Série 73
+===========================
+:date:`July-August, 2014`
+
+.. image:: ../images/gnulinux-magazine-hs-73.jpg
+   :scale: 40%
+   :class: img-left
+
+I wrote an article (in French) about Matplotlib in the French Linux Mag
+(Hors-Série 73) and Cyrille Rossant wrote an introduction to vispy in the same
+magazine:
+
+*L'un des innombrables intérêts de Python vient de la mise à disposition des
+développeurs d’un nombre impressionnant de modules. Mais pour pouvoir les
+utiliser, encore faut-il savoir qu'ils existent et comment ils fonctionnent...
+Dans le domaine du calcul scientifique, il y a des modules qui sont très connus
+tels que numpy, scipy ou encore matplotlib et d’autres qui le sont moins, mais
+qui le mériteraient !  Par exemple, matplotlib n'est pas vraiment adapté à la
+3D, alors que vispy, basé sur OpenGL, peut être bien plus performant dans ce
+domaine...*
+
+More `here <http://boutique.ed-diamond.com/gnulinux-magazine-hors-series/597-gnulinux-magazine-hs-73.html>`_
+
+|
+
+Structure of Receptive Fields ...
+=================================
+:date:`July 3, 2014`
+
+| **Structure of Receptive Fields in a Computational Model of Area 3b of Primary Sensory Cortex**
+| G. Is. Detorakis and N.P. Rougier, Frontiers in Computational Neuroscience (2014)
+
+|
+
+**Abstract** In a previous work, we introduced a computational model of area 3b
+which is built upon the neural field theory and receives input from a
+simplified model of the index distal finger pad populated by a random set of
+touch receptors (Merkell cells). This model has been shown to be able to
+self-organize following the random stimulation of the finger pad model and to
+cope, to some extent, with cortical or skin lesions. The main hypothesis of the
+model is that learning of skin representations occurs at the thalamo-cortical
+level while cortico-cortical connections serve a stereotyped competition
+mechanism that shapes the receptive fields. To further assess this hypothesis
+and the validity of the model, we reproduced in this article the exact
+experimental protocol of DiCarlo et al. that has been used to examine the
+structure of receptive fields in area 3b of the primary somatosensory
+cortex. Using the same analysis toolset, the model yields consistent results,
+having most of the receptive fields to contain a single region of excitation
+and one to several regions of inhibition. We further proceeded our study using
+a dynamic competition that deeply influences the formation of the receptive
+fields. We hypothesized this dynamic competition to correspond to some form of
+somatosensory attention that may help to precisely shape the receptive
+fields. To test this hypothesis, we designed a protocol where an arbitrary
+region of interest is delineated on the index distal finger pad and we either
+(1) instructed explicitly the model to attend to this region (simulating an
+attentional signal) (2) preferentially trained the model on this region or (3)
+combined the two aforementioned protocols simultaneously. Results tend to
+confirm that dynamic competition leads to shrunken receptive fields and its
+joint interaction with intensive training promotes a massive receptive fields
+migration and shrinkage.
+
+|
+
+Cortical Plasticity, a Computational Approach
+=============================================
+:date:`June 16-18, 2014`
+
+I'll give an invited talk at the `3rd International Conference on Neural Field
+Theory
+<http://outreach.eucognition.org/news/3rd-international-conference-neural-field-theory-icnft>`_
+At the university of Reading.
+
+We investigated the formation and maintenance of ordered topographic maps in the
+primary somatosensory cortex as well as the reorganization of representations
+after sensory deprivation or cortical lesion. We considered both the critical
+period (postnatal) where representations are shaped and the post-critical
+period where representations are maintained and possibly reorganized. We
+hypothesise that feed-forward thalamocortical connections are an adequate site
+of plasticity while cortico-cortical connections are believed to drive a
+competitive mechanism that is critical for learning. We modeled a small skin
+patch located on the distal phalangeal surface of a digit as a set of 256
+Merkel ending complexes (MEC) that fed a computational model of the primary
+somatosensory cortex (area 3b). This model is a two-dimensional neural field
+where spatially localized solutions (a.k.a. bumps) drive cortical plasticity
+through a Hebbian-like learning rule. Simulations explain the initial formation
+of ordered representations following repetitive and random stimulations of the
+skin patch. Skin lesions as well as cortical lesions are also studied and
+results confirmed the possibility to reorganize representations using the same
+learning rule and depending on the type of the lesion. For severe lesions, the
+model suggests that cortico-cortical connections may play an important role in
+complete recovery.
+
+|
+
+Round-table meeting
+===================
+:date:`June 14, 2014`
+
+In the context of the `Futur en Seine festival
+<http://www.futur-en-seine.fr/fens2014/>`_, I'll be present at the
+`Conservatoire National des Arts et Métiers <http://the.cnam.eu>`_ for a
+`round-table meeting
+<http://www.futur-en-seine.fr/fens2014/projet/numeriquement-votre/>`_ around
+our digital society.
+
+|
+
+LoOPS Day (5th)
+===============
+:date:`June 12, 2014`
+
+.. image:: ../images/loops.png
+   :scale: 60%
+   :class: img-left
+
+I will give a `course on modern OpenGL
+<http://reseau-loops.github.io/journee_2014_06.html>`_ with Cyrille Rossant at
+the Orsay mathematic laboratory. **Canceled** (because of strikes) but the
+tutorial material is available on `github
+<https://github.com/rougier/loops-tutorial>`_ and `here
+<http://www.labri.fr/perso/nrougier/teaching/opengl/>`_.
+
+|
+
+Biology of Decision Making
+==========================
+:date:`May 28-29, 2014`
+
+We presented a poster at the `Fourth International Symposium on Biology of
+Decision Making <http://sbdm2014.isir.upmc.fr>`_, Paris, France.
+
+.. image:: ../images/ReproducibleScience.png
+   :target: ../downloads/ReproducibleScience.pdf
+   :scale: 60%
+   :class: img-left  img-polaroid
+
+In a previous modelling study, Leblois et al. (2006) demonstrated an action
+selection mechanism in cortico-basal ganglia loops based on competition between
+the positive feedback, direct pathway through the striatum and the negative
+feedback, hyperdirect pathway through the subthalamic nucleus. In Guthrie et
+al. (2013), authors investigated how multiple level action selection could be
+performed by the basal ganglia. To do this, the model has been extended in a
+manner consistent with known anatomy and electro-physiology in three main
+areas. Unfortunately, the information provided by the article were not
+sufficient to reproduce the model !!! If reproducibility is the hallmark of
+Science, non-reproducibility seems to be the hallmark of Computational
+Neurosciences. Guthrie et al. (2013) is a prototypic case of such non-
+reproducible computational neuroscience research even though the proposed model
+gives a fair account of decision making in the basal ganglia complex. While
+trying to replicate results starting from the article description, we soon
+realised some information were undisclosed, some other were ambiguous and there
+were also some factual errors. Even after accessing the original sources (6000
+lines of pascal), we were still unable to understand how the model worked. In
+the end, only the original material (a binary executable) and a direct contact
+with the authors allowed us to access the whole picture. After two months of
+intensive refactoring, we were finally able to replicate results using only 200
+lines of python.
+
+|
+
+6th Workshop of the Computational Neuroscience Network
+======================================================
+:date:`March 27-28, 2014`
+
+I'll give an invited talk on cortical plasticity at the `6th Workshop of the
+Computational Neuroscience Network <http://rncm2014.sciencesconf.org>`_ in
+Marseille.
+
+**Encoding and signal processing with neural assemblies**
+
+* Analysis at the mesoscopic scale: cell assemblies and population coding
+* Dynamic system approach, probabilistic inference and predictive coding
+* Spike coding, rate coding and neural oscillations
+* Plasticity mechanisms
+* Large-scale brain connectivity
+
+**Analysis at the large-scale level: brain areas and networks**
+
+* Computational neuroimaging
+* Connectivity analysis
+* Information theory and graph theory applied to neuroimaging
+* Neural oscillations
+
+|
+
+Forums des Sciences Cognitives (French)
+=======================================
+:date:`March 22, 2014`
+
+I'll give a conference at the 13rd `Forums des Sciences Cognitives
+<http://forumsciencescognitives.com>`_
+
+.. image:: ../images/ForumSciencesCognitives-2014.jpg
+   :target: http://forumsciencescognitives.com
+   :scale: 60%
+   :class: img-left
+
+Les Sciences Cognitives, aux frontières de la psychologie cognitive, de la
+philosophie et des neurosciences, ont mis en avant depuis plusieurs décennies,
+la notion de cognition incarnée qui donne un rôle central au corps. Celui-ci
+est en effet considéré comme le vecteur privilégié de l'expression de la
+cognition mais aussi, et surtout, de sa construction. L'incarnation d'un
+organisme définit et limite simultanément les processus cognitifs qui lui sont
+accessibles. En ce sens, la cognition est ancrée très profondément dans le
+corps et dans ses interactions avec le monde extérieur. Dans le cadre d'une
+approche « systémique » de la cognition, il est donc important de comprendre
+que de tels systèmes ne peuvent être vraiment appréhendés que comme un tout et
+dans des situations comportementales naturelles. Or, pour le modélisateur, se
+pose alors un problème quant à savoir son rôle dans l’interprétation de ses
+modèles. Qu'est ce qui relève de l'observation objective et qu'est ce qui
+relève de l'interprétation subjective en rapport à notre propre cognition et
+donc à nos corps ? Au travers de la présentation de modèles issus des
+neurosciences computationelles, nous essaierons de donner quelques pistes de
+réflexions.
+
+|
+
+ERSF Code camp
+==============
+:date:`February 19-21, 2014`
+
+.. image:: ../images/esrf-logo.jpg
+   :scale: 60%
+   :class: img-left
+
+The first Vispy Code Camp will be held at the `European Synchrotron Radiation
+Facility <http://www.esrf.eu>`_ in Grenoble, France, from Wednesday 19 to
+Friday 21 February 2014.
+
+All the core developers (Luke Campagnola, Almar Klein, Cyrille Rossant and
+myself) and several other people from ESRF will participate. We plan to make
+progress on the upcoming layers, bridging the gap between low-level OpenGL and
+high-level interactive visualization. We want to achieve high performance on
+big data without sacrificing ease of use and quality.
+
+If you are interested in joining us, or if you just want us to discuss
+a particular feature or use case, please feel free to contact us!
+
+Finally, we would like to thank the organizers at ESRF for their
+generous support.
+
+|
+
+Pinokio remake
+==============
+:date:`January 31, 2014`
+
+.. image:: ../images/pinokio.jpg
+   :scale: 40%
+   :class: img-left
+
+I've promoted and supervised (with Maxime Carrère et Grégoire Passault) a
+remake of the pinokio project. Three students (Fabien Depraetre, Thibault
+Lambert, Romain Sagean) started the project from scratch and designed, in 2
+weeks, a low-cost Pixar-like animated lamp. You can make your own by following
+instrutions at the `github repository
+<https://github.com/rougier/PinokioProject>`_.
+
+The overall cost (in material) is approximately 500$, mostly because of motors.
+
+A movie is available from `here
+<http://www.youtube.com/watch?v=g_ZOmscoo0c&feature=youtu.be>`_
+
+|
+
+Summer School on Computational Neuroscience
+===========================================
+:date:`January 13-31, 2014`
+
+I'll give a course on Reinforcement Learning at the `Latin-American Summer
+School in Computational Neuroscience <http://www.laconeu.cl/>`_ to be held from
+13 to 31 January 2014 in Valparaiso, Chile.
+
+The principal aim of the 3rd Latin-American Summer School in Computational
+Neuroscience is to promote in Latin America the field of Computational
+Neuroscience through cutting edge mathematical and computational science tools
+and its applications in Biomedical Research and Clinical Application. The
+multidisciplinary study of brain function using neuroscience, mathematics and
+computational approaches helps to a better understanding of brain
+functionalities under normal or pathological states, as well as, to enhance
+important advances in education, theoretical frameworks, brain imaging, and
+biomedical therapies.
+
+|

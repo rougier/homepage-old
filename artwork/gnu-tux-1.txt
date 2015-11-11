@@ -1,0 +1,28 @@
+
+.. class:: thumbnails
+
+
+* .. image:: ../thumbnails/BabyGnuAlpha.png
+     :target: ../images/BabyGnuAlpha.png
+* .. image:: ../thumbnails/BabyGnuBlack.png
+     :target: ../images/BabyGnuBlack.png
+* .. image:: ../thumbnails/BabyGnu.png
+     :target: ../images/BabyGnu.png
+* .. image:: ../thumbnails/BabyTuxAlpha.png
+     :target: ../images/BabyTuxAlpha.png
+* .. image:: ../thumbnails/BabyTuxBlack.png
+     :target: ../images/BabyTuxBlack.png
+* .. image:: ../thumbnails/BabyTux.png
+     :target: ../images/BabyTux.png
+* .. image:: ../thumbnails/BabyTuxSitAlpha.png
+     :target: ../images/BabyTuxSitAlpha.png
+* .. image:: ../thumbnails/BabyTuxSitBlack.png
+     :target: ../images/BabyTuxSitBlack.png
+* .. image:: ../thumbnails/BabyTuxSit.png
+     :target: ../images/BabyTuxSit.png
+* .. image:: ../thumbnails/BabyGnuTuxBlack.jpg
+     :target: ../images/BabyGnuTuxBlack.jpg
+* .. image:: ../thumbnails/BabyGnuTux.jpg
+     :target: ../images/BabyGnuTux.jpg
+* .. image:: ../thumbnails/GnuTuxSoftRevolution-v2.png
+     :target: ../images/GnuTuxSoftRevolution-v2.png

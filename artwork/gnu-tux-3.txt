@@ -1,0 +1,25 @@
+
+.. class:: thumbnails
+
+* .. image:: ../thumbnails/PrintedBabyGnu-BabyTux-1.jpg
+     :target: ../images/PrintedBabyGnu-BabyTux-1.jpg
+* .. image:: ../thumbnails/PrintedBabyGnu-BabyTux-2.jpg
+     :target: ../images/PrintedBabyGnu-BabyTux-2.jpg
+* .. image:: ../thumbnails/PrintedBabyGnu-BabyTux-3.jpg
+     :target: ../images/PrintedBabyGnu-BabyTux-3.jpg
+* .. image:: ../thumbnails/PrintedBabyGnu-1.jpg
+     :target: ../images/PrintedBabyGnu-1.jpg
+* .. image:: ../thumbnails/PrintedBabyGnu-2.jpg
+     :target: ../images/PrintedBabyGnu-2.jpg
+* .. image:: ../thumbnails/PrintedBabyGnu-3.jpg
+     :target: ../images/PrintedBabyGnu-3.jpg
+* .. image:: ../thumbnails/PrintedBabyGnu-4.jpg
+     :target: ../images/PrintedBabyGnu-4.jpg
+* .. image:: ../thumbnails/PrintedBabyTux-1.jpg
+     :target: ../images/PrintedBabyTux-1.jpg
+* .. image:: ../thumbnails/PrintedBabyTux-2.jpg
+     :target: ../images/PrintedBabyTux-2.jpg
+* .. image:: ../thumbnails/PrintedBabyTux-3.jpg
+     :target: ../images/PrintedBabyTux-3.jpg
+* .. image:: ../thumbnails/PrintedBabyTux-4.jpg
+     :target: ../images/PrintedBabyTux-4.jpg

@@ -1,0 +1,19 @@
+.. sidebar:: Nicolas P. Rougier
+
+   Nicolas.Rougier@inria.fr
+
+   * `Home     <../index.html>`_
+   * `Research <../research/index.html>`_
+   * `Teaching <../teaching/index.html>`_
+   * `Coding   <../coding/index.html>`_
+   * `Artwork  <../artwork/index.html>`_
+
+     - `Scientific illustrations`_
+     - `Neurosciences`_
+     - `Baby Tux & Baby GNU`_
+     - `The Ancient Art of Go`_
+     - `Miscellaneous`_
+     - `(Artistic) Nudes`_
+
+   * `News     <../news/index.html>`_
+   * `Blog     <../blog/index.html>`_

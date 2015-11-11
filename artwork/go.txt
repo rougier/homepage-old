@@ -1,0 +1,12 @@
+.. class:: thumbnails
+
+* .. image:: ../thumbnails/GoInTheMorning.jpg
+     :target: ../images/GoInTheMorning.jpg
+* .. image:: ../thumbnails/GobanWired.jpg
+     :target: ../images/GobanWired.jpg
+* .. image:: ../thumbnails/Goban.jpg
+     :target: ../images/Goban.jpg
+* .. image:: ../thumbnails/Goban2.png
+     :target: ../images/Goban2.png
+* .. image:: ../thumbnails/GobanSmall.png
+     :target: ../images/GobanSmall.png

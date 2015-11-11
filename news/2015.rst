@@ -1,0 +1,20 @@
+.. include:: ../header.txt
+.. include:: ../footer.txt
+.. include:: ./sidebar.txt
+.. ----------------------------------------------------------------------------
+.. role:: date
+.. role:: label
+.. ----------------------------------------------------------------------------
+
+.. image:: ../images/WeeMee-Demonstrater.png
+   :class: img-right
+
+========
+Hot News
+========
+
+(Boring) news concerning my research activity.
+
+|
+
+.. include:: 2015-content.txt

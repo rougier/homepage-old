@@ -1,0 +1,301 @@
+Shader-based Antialiased Dashed Stroked Polylines
+=================================================
+:date:`December 6, 2013`
+
+.. image:: ../images/JCGT-2.png
+   :scale: 75%
+   :target: http://jcgt.org/published/0002/02/08/
+   :class: img-left
+
+**Abstract** Dashed stroked paths are a widely-used feature found in the vast
+majority of vector-drawing software and libraries. They enable, for example,
+the highlighting of a given path, such as the current selection, in drawing
+software or distinguishing curves, in the case of a scientific plotting
+package. This paper introduces a shader-based method for rendering arbitrary
+dash patterns along any continuous polyline (smooth or broken). The proposed
+method does not tessellate individual dash patterns and allows for fast and
+nearly accurate rendering of any user-defined dash pattern and caps. Benchmarks
+indicate a slowdown ratio between 1.1 and 2.1 with an increased memory
+consumption between 3 and 6. Furthermore, the method can be used for solid
+thick polylines with correct caps and joins with only a slowdown factor of 1.1.
+
+Full article available from http://jcgt.org/published/0002/02/08/
+
+|
+
+Where is my mind ?
+==================
+:date:`December 9, 2013`
+
+I'll give an invited talk at Cergy university for the `Robotics and the Living
+Conference <../downloads/RoboticsAndTheLiving.pdf>`_ conference:
+
+.. image:: ../images/ShunIwasawa.jpg
+   :scale: 45%
+   :target: http://gonzalez2.web.fc2.com
+   :class: img-left
+
+Intelligent systems require a body to interact with the environment depending
+on the context. This apparently simple proposal has strong implications for the
+understanding of living organisms in their complexity, but also for anyone who
+wants to design robots closer to living organisms in the way they
+operate. Around the themes presented in `The Simplexity
+<http://yalepress.yale.edu/yupbooks/book.asp?isbn=0300169345>`_ Alain Berthoz
+(2009, Odile Jacob), `Why Red Does Not Sound Like a Bell
+<http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199775224.001.0001/acprof-9780199775224>`_
+Kevin O'Regan (2011, Oxford UP), `Darwin
+<http://www.lesbelleslettres.com/livre/?GCOI=22510100653180>`_ Charles Lenay
+(1999, Belles Lettres), `La Revolution de l'Intelligence du Corps
+<http://www.manuella-editions.fr/livre/la-revolution-de-lintelligence-du-corps.html>`_
+of Rolf Pfeifer and Alex Pitti (2012, Manuella Editions) and `Morphogenetic
+Engineering <http://link.springer.com/book/10.1007%2F978-3-642-33902-8>`_ Rene
+Doursat et al. (2012, Springer), this meeting will attempt to bring together
+ideas from biology, biologically-inspired robotics, cognitive sciences, and the
+approach of complex systems with multi-agent systems and computational
+neuroscience.
+
+|
+
+Vispy 0.2.0
+===========
+:date:`November 4, 2013`
+
+I'm pleased to announce that we've just released Vispy 0.2 !
+
+Please have a go and try it out: http://vispy.org
+
+In this release we improved the OpenGL object-oriented interface. You
+can find a few examples here: http://vispy.org/gallery.html
+
+The next step for us is to design higher-level visualization
+interfaces. Those will let users not necessarily familiar with OpenGL
+design beautiful and fast visualizations in Python (including data
+visualization and scientific plotting).
+
+Please report bugs and feature requests at our issue tracker:
+https://github.com/vispy/vispy/issues
+
+Vispy will be at the Budapest BI Forum this week! http://budapestbiforum.com/
+
+|
+
+Cerveau et Informatique (French)
+================================
+:date:`November 4, 2013`
+
+I'll give a talk at the Université Paul Sabatier for the `Brain and Computer
+Science <../downloads/ProgrammeJourneeSISA.pdf>`_ conference.
+
+**Abstract** The visual exploration of a scene involves the interplay of
+several competiting processes (for example to select the next saccade or to
+keep fixation) and the integration of bottom-up (e.g. contrast) and top-down
+information (the target of a visual search task). Identifying the neural
+mechanisms involved in these processes and the integration of these information
+remain a challenging question. After briefly reviewing psychological and
+physiological data on visual attention, I'll explain what it actually means to
+model visual attention in computational neuroscience and what can be learnt from
+these models.
+
+|
+
+Classical Conditioning
+======================
+:date:`October 31, 2013`
+
+I've made some kind of poster to explain most well known classical conditioning
+procedure and effects.
+
+.. image:: ../images/ForwardConditioning.png
+   :scale: 75%
+
+The full poster is `here <../images/Conditioning.pdf>`_ and the sources are available from
+`here <../images/Conditioning.svg>`_.
+
+|
+
+Georgios's defense
+==================
+
+:date:`October 23, 2013` Georgios Is. Detorakis, *Cortical plasticity, dynamic
+neural fields and self-organization*
+
+**Abstract.** The aim of the present work is the modeling of the formation,
+maintenance and reorganization of somatosensory cortical maps using the theory
+of dynamic neural fields. A dynamic neural field is a partial
+integro-differential equation that is used to model the cortical activity of a
+part of the cortex. Such a neural field is used in this work in order to model
+a part of the area 3b of the primary somatosensory cortex. In addition a skin
+model is used in order to provide input to the cortical model. From a
+computational point of view the model is able to perform distributed, numerical
+and adaptive computations. The model is able to explain the formation of
+topographic maps and their reorganization in the presence of a cortical lesion
+or a sensory deprivation, where balance between excitation and inhibition plays
+a crucial role. In addition, the model is consistent with neurophysiological
+data of area 3b. Finally, it has been shown that attention plays a key role in
+the organization of receptive fields of neurons of the somatosensory
+cortex. Therefore, in this work has been proposed a definition of somatosensory
+attention and a potential explanation of its influence on somatotopic
+organization through a number of experimental results. By changing the gains of
+lateral connections, it is possible to control the shape of the solution of the
+neural field. This leads to significant alterations of receptive fields sizes,
+resulting to a better performance during the execution of demanding haptic
+tasks.
+
+|
+
+
+JDEV 2013
+=========
+:date:`September 4-6, 2013`
+
+I will give a talk at `JDEV 2013 <http://devlog.cnrs.fr/jdev2013>`_ on
+scientific visualization.
+
+.. image:: ../images/jdev2013.png
+   :width: 400px
+
+|
+
+Sixth Annual Conference on Python in Science
+============================================
+:date:`August 21, 2013`
+
+.. image:: ../images/euroscipy-logo.png
+   :class: img-left
+   :width: 100px
+
+The EuroSciPy meeting is a cross-disciplinary gathering focused on the use and
+development of the Python language in scientific research. This event strives
+to bring together both users and developers of scientific tools, as well as
+academic research and state of the art industry.  The 6th European Conference
+on Scientific Python starts today.
+
+|
+
+VisPy 0.1.0 has been released
+=============================
+:date:`August 14, 2013`
+
+I'm pleased to announce that we've just released the first version of vispy!
+
+Please have a go and try it out, for instance by playing with the examples:
+http://api.vispy.org/en/latest/examples.html
+
+Note that vispy is still very much a work in progress. There are probably
+bugs and we may apply changes to the API. Please report bugs and feature
+requests at our issue tracker: https://github.com/vispy/vispy/issues
+
+|
+
+
+ISN Day (French)
+================
+:date:`June 27, 2013`
+
+I gave a talk about cyber-criminality at the *Journées pédagogiques sur ISN*
+(in French).
+
+**Résumé** Depuis les heures glorieuses du "phreaking" où des adolescents
+cherchaient simplement à téléphoner gratuitement (1960), jusqu'à la mise au
+point par des états de virus informatiques pour des attaques ciblées (2010), le
+visage de la cybercriminalité s'est radicalement transformé en l'espace de
+quelques années. Là où l'on trouvait des passionés d'informatique, on trouve
+aujourd'hui des états, des industries, des mafias et des "script kiddies". Les
+possibilités de piratage et de fraude se sont par ailleurs multipliées depuis
+la généralisation de l'accès à internet et de la téléphonie mobile. Sachant que
+le point d'entrée privilégié dans un système est l'utilisateur lambda, il est
+plus que jamais nécessaire de rester vigilant.
+
+`Read More ... <http://videos.univ-lorraine.fr/index.php?act=view&id=504>`_
+
+|
+
+Euroscipy 2013 Tutorial
+========================
+:date:`May 5, 2013`
+
+The EuroScipy 2013 tutorials program is `online
+<https://www.euroscipy.org/schedule/tutorials/>`_ and `registration
+<https://www.euroscipy.org/registration/>`_ is open.
+
+|
+
+Higher Quality 2D Text Rendering
+================================
+:date:`April 2, 2013`
+
+**Abstract** Even though text is pervasive in most 3D applications, there is
+surprisingly no native support for text rendering in OpenGL. To cope with this
+absence, Mark Kilgard introduced the use of texture fonts. This technique is
+well know and widely used and ensures both good performances and a decent
+quality in most situations. However, the quality may degrade strongly in
+orthographic mode (screen space) due to pixelation effects at large sizes and
+to legibility problems at small sizes due to incorrect hinting and positioning
+of glyph. I propose to revisit font texture rendering to ensure the highest
+quality in orthographic mode. The method allows for both the accurate rendering
+and positioning of any glyph on the screen. While the method is compatible with
+complex shaping and/or layout (e.g., Arabic alphabet), these specific cases are
+not studied in this article.
+
+Nicolas P. Rougier, **Higher Quality 2D Text Rendering**, Journal of Computer
+Graphics Techniques (JCGT), vol. 2, no. 1, 50-64, 2013. Available online
+http://jcgt.org/published/0002/01/04/
+
+Several demos available from http://code.google.com/p/freetype-gl/
+
+|
+
+
+PRACE Winter school 2013
+========================
+:date:`March 19, 2013`
+
+I'll be giving a course on scientific visualization (general introduction,
+python and matplotlib) at the PRACE Winter school 2013. The PRACE Winter School
+on Scientific Visualiation 2013 is a 3 day course aimed at scientists who wish
+to learn the fundamentals of several tools and techniques that are commonly
+used to generate visualisation of scientific research.
+
+`Read more... <http://events.prace-ri.eu/conferenceDisplay.py?confId=144>`_
+
+|
+
+PhD Position
+============
+:date:`March 14, 2013`
+
+The aim of this proposal is to investigate and to model decision making at
+different levels in order to establish the link between motor primitives and
+higher level actions. The question is to understand how continuous complex
+motor sequences can be dynamically represented as actions such that they can be
+later manipulated to resolve conflict when several actions are possible.
+
+This research will take place at the institute of neurodegenerative diseases
+whose goal is to develop therapeutic approaches to neurodegenerative diseases
+using both vertical and translational approaches. More specifically, this
+research will be driven in cooperation with the Basal Gang group which has
+extended expertise in the physiology of decision making and the neuromodulation
+of the cortex-basal ganglia loop.
+
+The candidate should have education in mathematics and computer science
+(modeling, differential equations, simulation, analysis) with a strong
+motivation or experience in neurosciences.
+
+`Read more... <http://www.inria.fr/en/institute/recruitment/offers/phd/campaign-2013/(view)/details.html?id=PNGFK026203F3VBQB6G68LOE1&LOV5=4509&LG=EN&Resultsperpage=20&nPostingID=7511&nPostingTargetID=13006&option=52&sort=DESC&nDepartmentID=28>`_
+
+|
+
+About brain modeling
+====================
+:date:`February 28, 2013`
+
+I got interviewed for the `Interstices <http://interstices.info>`_ website (in French).
+
+*Percer les mystères du cerveau, en particulier humain, est l’un des défis
+scientifiques du XXIe siècle. Comment la modélisation apporte-t-elle sa pierre
+à l'édifice ? Nicolas Rougier, chercheur en neurosciences computationnelles,
+nous l’explique dans cet épisode du podcast audio.*
+
+`Read more... <http://interstices.info/jcms/nn_72250/a-propos-de-la-modelisation-du-cerveau>`_
+
+|

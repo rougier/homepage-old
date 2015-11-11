@@ -1,0 +1,22 @@
+.. class:: thumbnails
+
+* .. image:: ../thumbnails/Glass.jpg
+     :target: ../images/Glass.jpg
+* .. image:: ../thumbnails/PebbleStones.jpg
+     :target: ../images/PebbleStones.jpg
+* .. image:: ../thumbnails/Family.jpg
+     :target: ../images/Family.jpg
+* .. image:: ../thumbnails/Chain.jpg
+     :target: ../images/Chain.jpg
+* .. image:: ../thumbnails/Dunes.jpg
+     :target: ../images/Dunes.jpg
+* .. image:: ../thumbnails/Sphere.jpg
+     :target: ../images/Sphere.jpg
+* .. image:: ../thumbnails/Planet.jpg
+     :target: ../images/Planet.jpg
+* .. image:: ../thumbnails/Ring.jpg
+     :target: ../images/Ring.jpg
+* .. image:: ../thumbnails/Soledad.jpg
+     :target: ../images/Soledad.jpg
+* .. image:: ../thumbnails/Mystery.jpg
+     :target: ../images/Mystery.jpg

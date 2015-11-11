@@ -1,0 +1,67 @@
+.. include:: ../header.txt
+.. include:: ../footer.txt
+.. include:: ./sidebar.txt
+.. ----------------------------------------------------------------------------
+.. role:: date
+.. ----------------------------------------------------------------------------
+
+
+
+How this website is made
+------------------------
+**April 1, 2014** - Nicolas P. Rougier
+
+I'm asked quite regularly how this website has been made. It is based on the
+restructured text format and the whole website is statically build using a
+Makefile. If you wish to get files, replace any ``*.html`` with ``*.rst`` to get
+the sources while for the actual building process, you need to get the
+`bootstrap <http://getbootstrap.com>`_ framework and the various configuration
+files.
+
+|
+|
+
+**Structure of the website**
+
+::
+
+ ├── index.rst
+ ├── Makefile
+ ├── Makefile.sub
+ ├── bootstrap.py
+ ├── pages.tmpl
+ ├── header.txt
+ ├── footer.txt
+ ├── sidebar.txt
+ ├── style.css
+ ├── images/
+ ├── downloads/
+ ├── thumbnails/
+ ├── bootstrap/
+ │   ├── css/
+ │   ├── js/
+ │   └── img/
+ ├── research/
+ │   ├── sidebar.txt
+ │   ├── index.rst
+ │   └── ...
+ ├── teaching/
+ │   ├── sidebar.txt
+ │   ├── index.rst
+ │   └── ...
+ ├── coding/
+ │   ├── sidebar.txt
+ │   ├── index.rst
+ │   └── ...
+ ├── artwork/
+ │   ├── sidebar.txt
+ │   ├── index.rst
+ │   └── ...
+ ├── news/
+ │   ├── sidebar.txt
+ │   ├── index.rst
+ │   └── ...
+ └── blog/
+     ├── sidebar.txt
+     ├── index.rst
+     └── ...

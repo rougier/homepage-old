@@ -1,0 +1,21 @@
+
+.. class:: thumbnails
+
+* .. image:: ../thumbnails/brain.png
+     :target: ../images/brain.png
+* .. image:: ../thumbnails/NeuronMatrix.png
+     :target: ../images/NeuronMatrix.png
+* .. image:: ../thumbnails/NeuronSEM.png
+     :target: ../images/NeuronSEM.png
+* .. image:: ../thumbnails/NeuronSEM2.png
+     :target: ../images/NeuronSEM2.png
+* .. image:: ../thumbnails/NeuronTech.png
+     :target: ../images/NeuronTech.png
+* .. image:: ../thumbnails/NeuronToon.png
+     :target: ../images/NeuronToon.png
+* .. image:: ../thumbnails/CCN.png
+     :target: ../images/CCN.png
+* .. image:: ../thumbnails/neuron.png
+     :target: ../images/neuron.png
+* .. image:: ../thumbnails/Conditioning.png
+     :target: ../images/Conditioning.pdf
