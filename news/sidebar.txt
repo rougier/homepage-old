@@ -9,8 +9,8 @@
    * `Artwork  <../artwork/index.html>`_
    * `News     <../news/index.html>`_
 
-     - `2015 <../news/2015.html>`_ - `2014 <../news/2014.html>`_
-     - `2013 <../news/2013.html>`_ - `2012 <../news/2012.html>`_
-     - `2011 <../news/2012.html>`_
+     - `2016 <../news/2016.html>`_ - `2015 <../news/2015.html>`_
+     - `2014 <../news/2014.html>`_ - `2013 <../news/2013.html>`_
+     - `2012 <../news/2012.html>`_ - `2011 <../news/2011.html>`_
 
    * `Blog     <../blog/index.html>`_

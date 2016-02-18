@@ -1,6 +1,7 @@
+
 .. sidebar:: Nicolas P. Rougier
 
-   Nicolas.Rougier@inria.fr
+   | Nicolas.Rougier@inria.fr
 
    * `Home     <index.html>`_
    * `Research <research/index.html>`_

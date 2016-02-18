@@ -29,7 +29,7 @@ Antialiased 2D Grid, Marker, and Arrow Shaders
 :date:`November 1st, 2014`
 
 .. image:: ../images/JCGT-3.png
-   :scale: 75%
+   :width: 150px
    :target: http://jcgt.org/published/0003/04/01/
    :class: img-left
 
@@ -55,7 +55,7 @@ Nature `highlighted
 the Ten Simple Rules article:
 
 .. image:: ../images/Nature.jpg
-   :scale: 50%
+   :width: 150px
    :class: img-left
 
 *Jumbled charts, misleading graphs, axes to nowhere — illustrations in a paper
@@ -73,7 +73,7 @@ Ten Simple Rules for Better Figures
 :date:`September 11, 2014`
 
 .. image:: ../images/PLOS-logo.jpg
-   :scale: 30%
+   :width: 150px
    :class: img-left
 
 Scientific visualization is classically defined as the process of graphically
@@ -99,7 +99,7 @@ Glumpy reboot !
 :date:`September 7, 2014`
 
 .. image:: ../images/glumpy-teaser.png
-   :scale: 75%
+   :width: 500px
    :target: http://glumpy.github.io
 
 |
@@ -109,7 +109,7 @@ Bernstein Conference
 :date:`September 2-5, 2014`
 
 .. image:: ../images/bccn-logo.png
-   :scale: 30%
+   :width: 150px
    :class: img-left
 
 I'll give an invited talk about cortical plasticity at the *Approaching
@@ -144,7 +144,7 @@ GNU/Linux Mag Hors Série 73
 :date:`July-August, 2014`
 
 .. image:: ../images/gnulinux-magazine-hs-73.jpg
-   :scale: 40%
+   :width: 200px
    :class: img-left
 
 I wrote an article (in French) about Matplotlib in the French Linux Mag
@@ -251,7 +251,7 @@ LoOPS Day (5th)
 :date:`June 12, 2014`
 
 .. image:: ../images/loops.png
-   :scale: 60%
+   :width: 150px
    :class: img-left
 
 I will give a `course on modern OpenGL
@@ -272,7 +272,7 @@ Decision Making <http://sbdm2014.isir.upmc.fr>`_, Paris, France.
 
 .. image:: ../images/ReproducibleScience.png
    :target: ../downloads/ReproducibleScience.pdf
-   :scale: 60%
+   :width: 250px
    :class: img-left  img-polaroid
 
 In a previous modelling study, Leblois et al. (2006) demonstrated an action
@@ -333,7 +333,7 @@ I'll give a conference at the 13rd `Forums des Sciences Cognitives
 
 .. image:: ../images/ForumSciencesCognitives-2014.jpg
    :target: http://forumsciencescognitives.com
-   :scale: 60%
+   :width: 250px
    :class: img-left
 
 Les Sciences Cognitives, aux frontières de la psychologie cognitive, de la
@@ -361,7 +361,7 @@ ERSF Code camp
 :date:`February 19-21, 2014`
 
 .. image:: ../images/esrf-logo.jpg
-   :scale: 60%
+   :width: 150px
    :class: img-left
 
 The first Vispy Code Camp will be held at the `European Synchrotron Radiation
@@ -387,7 +387,7 @@ Pinokio remake
 :date:`January 31, 2014`
 
 .. image:: ../images/pinokio.jpg
-   :scale: 40%
+   :width: 200px
    :class: img-left
 
 I've promoted and supervised (with Maxime Carrère et Grégoire Passault) a

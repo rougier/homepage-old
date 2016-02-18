@@ -3,9 +3,39 @@
 .. include:: sidebar.txt
 .. ----------------------------------------------------------------------------
 
-.. |INRIA| image:: INRIA.png
+
+.. |github| image:: icons/github.png
+   :height: 32px
+   :width: 32px
+   :target: https://github.com/rougier
+
+.. |orcid| image:: icons/orcid.png
+   :height: 32px
+   :width: 32px
+   :target: http://orcid.org/0000-0002-6972-589X
+
+.. |hal| image:: icons/hal.jpg
+   :height: 32px
+   :width: 32px
+   :target: https://cv.archives-ouvertes.fr/nicolas-p-rougier
+
+.. |twitter| image:: icons/twitter.png
+   :height: 32px
+   :width: 32px
+   :target: https://twitter.com/nprougier
+
+.. |linkedin| image:: icons/linkedin.png
+   :height: 32px
+   :width: 32px
+   :target: https://fr.linkedin.com/in/nicolas-rougier-80018658
+
+.. |rescience| image:: icons/rescience.png
+   :height: 32px
+   :width: 32px
+   :target: https://rescience.github.io
 
 
+   
 Welcome
 =======
 
@@ -21,14 +51,17 @@ of Neurodegenerative Diseases <http://imn-bordeaux.org/index.php?lang=en>`_.
 
 Thanks for visiting and enjoy the site.
 
+.. |github| |orcid| |hal| |twitter| |linkedin| |rescience|
+
 |
 
 Contact
-------
+-------
 
 | **Institut des maladies neurodégénératives**
-| Université Victor Segalen - Bordeaux 2
-| CNRS UMR 5293 - Bât. 3b 3ème étage
+| Université de Bordeaux
+| CNRS UMR 5293 – Bât. 3b 1er étage
 | 146 Rue Léo Saignat
-| 33076 Bordeaux - France
+| 33076 Bordeaux – France
 | Tel: +33 547 304 260
+

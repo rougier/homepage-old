@@ -108,7 +108,7 @@ The best poster I've ever made
 
 .. image:: ../thumbnails/glumpy.png
    :class: img-left img-polaroid
-   :width: 15%
+   :width: 150px
    :target: ../images/glumpy.pdf
 
 I've made this poster for the EuroScipy conference in Paris, 2011. I made it
@@ -129,7 +129,7 @@ Research in Computer Science
 
 .. image::  ../thumbnails/RechercheInformatique.png
    :class: img-left img-polaroid
-   :width: 10%
+   :width: 150px
    :target: ../images/RechercheInformatique.png
 
 Zoé finished her training period and here is the final result. The goal was to

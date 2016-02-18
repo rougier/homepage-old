@@ -5,7 +5,7 @@ Baby GNU & Baby TUX 3D printed
 .. image:: ../images/BabyGnu-BabyTux-small.jpg
    :target: ../images/BabyGnu-BabyTux.jpg
    :class: img-right img-polaroid
-   :width: 30%
+   :width: 200px
 
 I created the Baby Tux in 2003 for my gnubiff software because I wanted to have
 some animation saying "you've got mail". The result was a cute jumping baby tux
@@ -68,7 +68,7 @@ Corps & Robots (French)
 :date:`October 18, 2012`
 
 .. image:: ../thumbnails/CorpsEtRobots.png
-   :width: 30%
+   :width: 250px
    :class: img-right img-polaroid
 
 La théorie de la cognition incarnée nous a enseigné, il y a maintenant quelques
@@ -219,6 +219,7 @@ Some fun with emacs mode-line:
 
 .. image:: ../images/emacs-powerline.png
    :class: img-polaroid
+   :width: 500px
 
 |
 

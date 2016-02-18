@@ -42,17 +42,6 @@ central supervisor or homonculus, not even a soft one like a central clock.
 
 |
 
-Embodied Cognition
-==================
-
-One important aspect of my research is to consider the brain and the body as a
-whole. The brain does not live outside the body. If we aim at understanding
-brain and cognition, we cannot do so without considering the brain-body
-complex. "*Minds are not disembodied logical reasoning devices.*" as Andy Clark
-explained.
-
-|
-
 Distributed, Asynchronous, Numerical, Adaptive Computing
 ========================================================
 
@@ -70,14 +59,25 @@ artifact like a central supervisor or a homunculus. If some properties are to
 emerge from our models, we want to make sure they are properties of the model
 as opposed to properties of the software that run the simulation.
 
+
 |
 
-Computer Graphics
-=================
+Embodied Cognition
+==================
 
-As a side-effect of my research in distributed computing, I've come to to
-consider GPU computing to speed-up computations. However, I became quickly
-mostly interested in the parallel you can draw between adaptive distributed
-computing and fragment-shader programming. The many ways to achieve a global
-scene effect from a single shader program brings interesting insights to the
-problem of emergence.
+One important aspect of my research is to consider the brain and the body as a
+whole. The brain does not live outside the body. If we aim at understanding
+brain and cognition, we cannot do so without considering the brain-body
+complex. "*Minds are not disembodied logical reasoning devices.*" as Andy Clark
+explained.
+
+
+.. Computer Graphics
+   =================
+
+   As a side-effect of my research in distributed computing, I've come to to
+   consider GPU computing to speed-up computations. However, I became quickly
+   mostly interested in the parallel you can draw between adaptive distributed
+   computing and fragment-shader programming. The many ways to achieve a global
+   scene effect from a single shader program brings interesting insights to the
+   problem of emergence.

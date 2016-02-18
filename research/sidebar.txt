@@ -5,11 +5,12 @@
    * `Home     <../index.html>`_
    * `Research <../research/index.html>`_
 
-     - `Demos               <../research/demos.html>`_
-     - `Projects            <../research/projects.html>`_
+     - `Biographical sketch <../research/resume.html>`_
+     - `Community work      <../research/community.html>`_
      - `Publications        <../research/publications.html>`_
-     - `Biographical Sketch <../research/resume.html>`_
      - `Students            <../research/students.html>`_
+     - `Projects            <../research/projects.html>`_
+     - `Demos               <../research/demos.html>`_
 
    * `Teaching <../teaching/index.html>`_
    * `Coding   <../coding/index.html>`_

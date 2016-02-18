@@ -31,9 +31,16 @@ Thesis
 Journals
 ========
 
-* | The globus pallidus pars interna in goal oriented and habitual behavior. Resolving an old standing paradox.
-  | C. Piron, D. Kase, M. Topalidou, M. Goillandeau, H. Orignac,  T. N'Guyen, N.P. Rougier, T. Boraud. Movement Disorders, (2015), *in revision*.
+* | **Dissociation of the acquisition and the expression of habits in primates**.
+  | M. Topalidou, D. Kase, T. Boraud & N.P. Rougier, 2016. *submitted*
 
+* | **Stability analysis of a self-organizing neural field**.
+  | G. Detorakis, A. Chaillet & N.P. Rougier, 2016. *submitted*
+
+|
+
+* | **The globus pallidus pars interna in goal oriented and habitual behavior. Resolving an old standing paradox**.
+  | C. Piron, D. Kase, M. Topalidou, M. Goillandeau, H. Orignac,  T. N'Guyen, N.P. Rougier, T. Boraud. Movement Disorders, (2016), *in press*.
   
 * | `A parsimonious computational model of visual target position encoding in the superior colliculus <https://hal.inria.fr/hal-01201785>`_
   | W. Taouali, L. Goffart, F. Alexandre, N.P. Rougier, Biological Cybernetics, 109, 4-5, (2015).
@@ -147,6 +154,9 @@ Book chapters / Edited Proceedings
 Peer-reviewed International Conferences (talk or poster)
 ========================================================
 
+* | Factors affecting reward based decision making : a computational study (poster)
+  | B. Teja Nallapu B. Raju Surampudi, N.P. Rougier, CBC, India, 2015.
+  
 * | VisPy: Harnessing The GPU For Fast, High-Level Visualization
   | L. Campagnola, A. Klein, E. Larson, C. Rossant, N.P. Rougier, Scipy, USA, 2015.
 
@@ -255,6 +265,21 @@ Peer-Reviewed National Conferences
 
 Popular Science
 ===============
+
+* | `Why you’ll never be able to upload your brain to the cloud (2) <https://theconversation.com/why-youll-never-be-able-to-upload-your-brain-to-the-cloud-52408>`_ 
+  | N.P. Rougier, `The Conversation (US) <https://theconversation.com/>`_ , January 2016.
+
+* | `Silicon soul: The vain dream of electronic immortality (1) <https://theconversation.com/silicon-soul-the-vain-dream-of-electronic-immortality-52368>`_ 
+  | N.P. Rougier, `The Conversation (US) <https://theconversation.com/>`_ , January 2016.
+  
+* | `36 15 EULA <http://binaire.blog.lemonde.fr/2015/11/24/3615-eula/>`_
+  | N.P. Rougier, `Binaire <http://binaire.blog.lemonde.fr>`_ , Novembre 2015.
+  
+* | `Esprit in silico : pourquoi l’idée de télécharger son cerveau n’a pas de sens (2) <https://theconversation.com/esprit-in-silico-pourquoi-lidee-de-telecharger-son-cerveau-na-pas-de-sens-2-51058>`_ 
+  | N.P. Rougier, `The Conversation (FR) <https://theconversation.com/fr>`_ , Novembre 2015.
+  
+* | `Esprit in silico : les vains espoirs de l’immortalité (1) <https://theconversation.com/esprit-in-silico-les-vains-espoirs-de-limmortalite-1-50643>`_
+  | N.P. Rougier, `The Conversation (FR) <https://theconversation.com/fr>`_ , Novembre 2015.
 
 * | `Intelligence artificielle, mythes et réalités <https://interstices.info/jcms/p_84122/l-intelligence-artificielle-mythes-et-realites>`_
   | N. P. Rougier, `Interstices <https://interstices.info/>`_, Juin 2015.

@@ -3,7 +3,7 @@ Shader-based Antialiased Dashed Stroked Polylines
 :date:`December 6, 2013`
 
 .. image:: ../images/JCGT-2.png
-   :scale: 75%
+   :width: 200px
    :target: http://jcgt.org/published/0002/02/08/
    :class: img-left
 
@@ -31,7 +31,7 @@ I'll give an invited talk at Cergy university for the `Robotics and the Living
 Conference <../downloads/RoboticsAndTheLiving.pdf>`_ conference:
 
 .. image:: ../images/ShunIwasawa.jpg
-   :scale: 45%
+   :width: 200px
    :target: http://gonzalez2.web.fc2.com
    :class: img-left
 
@@ -106,7 +106,7 @@ I've made some kind of poster to explain most well known classical conditioning
 procedure and effects.
 
 .. image:: ../images/ForwardConditioning.png
-   :scale: 75%
+   :width: 500px
 
 The full poster is `here <../images/Conditioning.pdf>`_ and the sources are available from
 `here <../images/Conditioning.svg>`_.

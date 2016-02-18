@@ -1,15 +1,93 @@
 .. _glumpy: http://glumpy.github.io
 .. _vispy: http://vispy.org
 
+Retour d’expériences sur la recherche reproductible
+===================================================
+:date:`December 3-4, 2015`
+
+.. image:: ../images/affiche-r4.png
+   :class: img-right
+   :target: http://www.lestudium-ias.com/event/retour-experiences-recherche-reproductible-r4
+   :width: 200px
+
+Les outils informatiques ont profondément changé tous les aspects de la
+recherche scientifique, nous permettant de traiter des modèles bien plus
+complexes et des jeux de données bien plus grands qu’auparavant. En
+contrepartie, l’évolution rapide et la faible fiabilité qui caractérisent les
+logiciels ont contaminé les résultats de recherche obtenus avec leur aide. Il
+est aujourd’hui difficile de reproduire à l’identique un résultat de calcul au
+bout de quelques mois, et quasiment impossible de vérifier un résultat publié
+dans un article scientifique.
+
+La Recherche Reproductible vise à corriger ce défaut par la transparence et la
+traçabilité: on ne publie pas seulement un résultat, mais aussi les données
+initiales et le code qui fait le calcul. Le principe est simple, mais son
+application n’est pas facile. Au cours de l'`atelier
+<http://www.lestudium-ias.com/event/retour-experiences-recherche-reproductible-r4>`_,
+des pionniers de cette approche montrent comment ils ont réussi à la mettre en
+oeuvre.
+
+|
+
+Ten Simple Rules for Better Figures
+===================================
+:date:`November 30, 2015`
+
+**The article reached 100,000 views.**
+
+Scientific visualization is classically defined as the process of graphically
+displaying scientific data. However, this process is far from direct or
+automatic. There are so many different ways to represent the same data: scatter
+plots, linear plots, bar plots, and pie charts, to name just a
+few. Furthermore, the same data, using the same type of plot, may be perceived
+very differently depending on who is looking at the figure. A more accurate
+definition for scientific visualization would be a graphical interface between
+people and data.
+
+More at `PLOS Computational Biology <http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833>`_
+
+|
+
+36 15 EULA
+==========
+:date:`November 24, 2015`
+
+Vous avez peut-être déjà bloqué devant des parfois "infâmes" EULA, en anglais
+pour "End User License Agreement", ou CGU en français pour Conditions générale
+d'utilisation (voir Dangerous Terms: A User's Guide to EULAs). Ces conditions
+sous lesquelles vous avez accès à un produit ou à un service sur le Web sont
+souvent longues, rébarbatives, incompréhensives pour un profane. D'ailleurs, on
+ne les lit pas, on clique, et on se livre à la merci de leur contenu. C'est le
+syndrome du "TL;DR", pour "Too long; didn't read" : trop long, pas lu.
+
+La suite sur `Binaire <http://binaire.blog.lemonde.fr/2015/11/24/3615-eula/>`_
+
+|
+
+Esprit in silico
+================
+:date:`November 20, 2015`
+
+« *Dans trente ans, les humains seront capables de télécharger leur esprit en
+totalité vers des ordinateurs pour devenir numériquement immortels* », Ray
+Kurzweil.
+
+« *Fondamentalement, l’ordinateur et l’homme sont les deux opposés les plus
+intégraux qui existent. L’homme est lent, peu rigoureux et très intuitif.
+L’ordinateur est super rapide, très rigoureux et complètement con* », Gérard Berry.
+
+La suite sur `The Conversation (1) <https://theconversation.com/esprit-in-silico-les-vains-espoirs-de-limmortalite-1-50643>`_ et `The Conversation (2) <https://theconversation.com/esprit-in-silico-pourquoi-lidee-de-telecharger-son-cerveau-na-pas-de-sens-2-51058>`_
+
+|
 
 Tentatives, Tentations, Intentions
 ==================================
 :date:`December 15 & 16, 2015`
 
 .. image:: ../images/psyphine.png
-   :class: img-left
+   :class: img-left img-polaroid
    :target: ../images/psyphine.pdf
-   :scale: 22%
+   :width: 200px
 
 Si l’interaction homme/robot cognitif conduit naturellement à des questions
 d’interprétation du comportement du robot (attribution ou non d’intelligence,
@@ -47,7 +125,7 @@ Scipy Lecture Notes 2015
 .. image:: ../images/scipy-lecture-notes.png
    :class: img-left img-polaroid
    :target: http://www.scipy-lectures.org
-   :scale: 25%
+   :width: 200px
 
 A new version of the "scipy lecture notes" has just been released:
 
@@ -80,7 +158,7 @@ RLDM 2015: The formation of habits
 .. image:: ../images/Meropi.png
    :class: img-left img-polaroid
    :target: http://videolectures.net/rldm2015_topalidou_hebbian_learning
-   :scale: 33%
+   :width: 200px
 
 `Meropi's talk <http://videolectures.net/rldm2015_topalidou_hebbian_learning>`_
 (my PhD student) is online.
@@ -115,12 +193,12 @@ EuroScipy 2015: tutorial and best poster
 :date:`August 27, 2015`
 
 .. image:: ../images/matplotlib-tutorial.png
-   :scale: 50%
+   :width: 350px
 
 .. image:: ../images/glumpy-poster-thumbnail.png
    :class: img-polaroid
    :target: ../images/glumpy-poster.png
-   :scale: 46%
+   :width: 180px
 
 |
 
@@ -130,7 +208,7 @@ The ReScience Journal
 
 .. image:: ../images/ReScience.png
    :class: img-left
-   :scale: 40%
+   :width: 150px
 
 I'm pleased to announce the launch of the `ReScience journal
 <https://github.com/ReScience/ReScience/wiki>`_. ReScience is a peer-reviewed
@@ -154,7 +232,7 @@ EuroScipy 2015
 
 .. image:: ../images/euroscipy-logo.png
    :class: img-left
-   :scale: 40%
+   :width: 100px
 
 
 With Tiziano Zito, I will co-chair the program of the `EuroSciPy
@@ -200,7 +278,7 @@ Intelligence Artificielle: Mythes et Réalités
 
 .. image:: ../images/cerveau.jpg
    :class: img-left
-   :scale: 50%
+   :width: 250px
 
 L’intelligence artificielle, ou IA, est officiellement née en 1956 lors d'une
 conférence à Dartmouth (USA). Même si les recherches ont de fait commencé dès
@@ -226,7 +304,7 @@ Reinforcement Learning and Decision Making
 
 .. image:: ../images/model-BG-THAL-CTX.png
    :class: img-left
-   :scale: 50%
+   :width: 200px
 
 If basal ganglia are widely accepted to participate in the high-level cognitive
 function of decision- making, their role is less clear regarding the formation
@@ -258,7 +336,7 @@ Pint of Science (Bordeaux)
 
 .. image:: ../images/PintOfScience.jpg
    :class: img-left
-   :scale: 30%
+   :width: 150px
 
 Je ferais un intervention dans le cadre du festival `Pint of Science
 <http://pintofscience.fr>`_ sur l'histoire de l'intelligence artificielle.
@@ -281,7 +359,7 @@ Thinkovery #3
 
 .. image:: ../images/thinkovery.jpg
    :class: img-left
-   :scale: 20%
+   :width: 150px
 
 I've got interviewed for `Thinkovery #3 <http://www.thinkovery.com>`_ about
 Artificial Intelligence:
@@ -323,7 +401,7 @@ Chappie / Semaine du Cerveau
 
 .. image:: ../images/Chappie.jpg
    :class: img-left img-polaroid
-   :scale: 30%
+   :width: 250px
 
 I'll be present at 19h00 at the Mérignac movie theater with Serge Ahmed to (try
 to) answer questions related to the `Chappie
@@ -361,7 +439,7 @@ UniThé ou Café ?
 
 .. image:: ../images/Unithe.jpg
    :class: img-left img-polaroid
-   :scale: 33%
+   :width: 250px
 
 L'attention visuelle est un mécanisme cérébral qui permet de sélectionner les
 informations visuelles que le cerveau va traiter en priorité, en laissant de
@@ -382,7 +460,7 @@ Glumpy release 1.0
 :date:`January 17, 2015`
 
 .. image:: ../images/glumpy-teaser.png
-   :scale: 75%
+   :width: 500px
    :target: http://glumpy.github.io
 
 After intense refactoring, `glumpy 1.0 <http://glumpy.github.io>`_ is
@@ -405,6 +483,7 @@ singularity won't happen any time soon.
 
 .. image:: ../images/games.jpg
    :class: img-left img-polaroid
+   :width: 250px
 
 "Nous pensions dépassé le fantasme d'une « intelligence artificielle qui
 pourrait mettre fin à l'humanité » ou bien surpasser l'intelligence humaine. Et

@@ -17,6 +17,7 @@ Hot News
 
 |
 
+.. include:: 2016-content.txt
 .. include:: 2015-content.txt
 .. include:: 2014-content.txt
 .. include:: 2013-content.txt

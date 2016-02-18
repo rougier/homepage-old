@@ -19,6 +19,10 @@ the sources while for the actual building process, you need to get the
 files.
 
 |
+
+Sources are available from http://github.com/rougier/homepage
+
+|
 |
 
 **Structure of the website**

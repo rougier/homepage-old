@@ -13,6 +13,15 @@ Stuff that would not fit elsewhere on this website.
 
 |
 
+Paris
+-------
+:date:`November 13, 2015`
+
+
+No limit to the madness of men.
+
+|
+
 Charlie
 -------
 :date:`Janurary 7-9, 2015`
