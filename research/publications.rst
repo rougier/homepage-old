@@ -266,6 +266,10 @@ Peer-Reviewed National Conferences
 Popular Science
 ===============
 
+* | `Visual Attention, Neural Networks and Computational Neuroscience
+     <http://www.vergeofdiscovery.com/035-rougier/>`_
+  | Evgeniy Shishkin & N.P. Rougier, Verge of Discovery, Podcast, March 2016
+
 * | `Why you’ll never be able to upload your brain to the cloud (2) <https://theconversation.com/why-youll-never-be-able-to-upload-your-brain-to-the-cloud-52408>`_ 
   | N.P. Rougier, `The Conversation (US) <https://theconversation.com/>`_ , January 2016.
 

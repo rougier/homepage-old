@@ -1,0 +1,228 @@
+/* -------------------------------------------------------------------------
+   body
+   ------------------------------------------------------------------------- */
+body {
+/*    font-family: "Times New Roman", "Times", serif;*/
+    font-family: "Bitstream Vera", serif;
+    font-size:   11pt;
+    line-height: 1.4em;
+    color:       #333333;
+}
+a, a:visited {
+    color: #0000ff;
+    text-decoration: none;
+}
+.document {
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+p {
+    text-align: justify;
+}
+
+.align-center {text-align: center;}
+.right        {float: right;}
+.left         {float: left;}
+.clear        {clear: both;}
+
+
+/* -------------------------------------------------------------------------
+   math
+   ------------------------------------------------------------------------- */
+img.math {
+    vertical-align: middle;
+}
+div.math p {
+    text-align: center;
+}
+span.eqno {
+    float: right;
+}
+
+/* -------------------------------------------------------------------------
+   media and figures
+   ------------------------------------------------------------------------- */
+video {
+    background-color: #ffffe9;
+    border: 1px solid black;
+    width: 100%;
+}
+.caption {
+    font-family: "Bitstream Vera Sans", sans-serif;
+/*    font-family: sans-serif;*/
+    font-size:9pt;
+    line-height: 1.2em;
+}
+.figure {
+    text-align: center;
+    background-color: #ffffe9;
+    border: 1px solid #eeeed9;
+    padding-top: 2em;
+    padding-bottom: 0.5em;
+    padding-right: 1em;
+    padding-left: 1em;
+    margin-bottom: 1.0em;
+}
+.image-reference img {
+    border: 0;
+    width: 100%;
+}
+span.figno {
+    font-weight: bold;
+}
+
+/* -------------------------------------------------------------------------
+    Title
+   ------------------------------------------------------------------------- */
+h1.title {
+    font-size: 28pt;
+    font-weight: 100;
+    font-variant: normal;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    text-align: left;
+}
+h2.subtitle {
+    font-size: 20pt;
+    font-weight: 100;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+
+/* -------------------------------------------------------------------------
+    Sections, subsections
+   ------------------------------------------------------------------------- */
+h1, h2, h3, h4, h5, h6 {
+	line-height: 1.25em;
+    padding-top: 1em;
+    font-family: "Bitstream Vera Sans", sans-serif;
+/*	font-family: sans-serif;*/
+    font-weight: 300;
+    color: #800000;
+}
+h1, h1 a, h1 a:visited {
+    font-size: 20pt;
+    text-align: center;
+    color: #800000;
+}
+h2, h2 a, h2 a:visited {
+    font-size: 15pt;
+    color: #800000;
+}
+
+/* -------------------------------------------------------------------------
+    Table of Contents
+   ------------------------------------------------------------------------- */
+#table-of-contents {
+    font-family: "Bitstream Vera Sans", sans-serif;
+/*	font-family: sans;*/
+    font-size: 9pt;
+    line-height: 1.2em;
+    padding: 0;
+    padding-top: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    background: #eeeeff;
+    border: 1px solid #aaaaff;
+}
+#table-of-contents .topic-title {
+    padding: 0;
+    margin: 0;
+    font-size: 12pt;
+    text-align: center;
+}
+#table-of-contents ul {
+    list-style-type: none;
+    padding-left: 1em;
+	column-count: 2;
+	column-gap: 20px;
+	column-rule: 1px dotted #BBB;
+	-moz-column-count: 2;
+	-moz-column-gap: 20px;
+	-moz-column-rule: 1px dotted #BBB;
+    -webkit-column-count: 2;
+	-webkit-column-gap: 20px;
+	-webkit-column-rule: 1px dotted #BBB;
+}
+#table-of-contents ul ul {
+	column-count: 1;
+	-moz-column-count: 1;
+    -webkit-column-count: 1;
+    break-inside: page;
+}
+
+/* -------------------------------------------------------------------------
+    Header
+   ------------------------------------------------------------------------- */
+.header {
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: "Bitstream Vera Sans", sans-serif;
+/*	font-family: sans;*/
+    font-variant: small-caps;
+    font-size: 10pt;
+    color: #800000;
+    border-top: 1px solid #800000;
+    text-align: right;
+}
+.header strong {
+    font-variant: normal;
+    font-weight: normal;
+    color: #000000;
+}
+hr.header{
+    display: none;
+}
+
+/* -------------------------------------------------------------------------
+    Abstract & Keywords
+   ------------------------------------------------------------------------- */
+.keywords {
+/*    font-family: "Bitstream Vera Sans", sans-serif;*/
+/*    font-family: sans-serif;*/
+    font-size: 10pt;
+    line-height: 1.25em;
+    margin-bottom: 1.0em;
+}
+.keywords.title {
+    font-weight: bold;
+/*    font-variant: small-caps;*/
+}
+.abstract {
+/*    font-family: "Bitstream Vera Sans", sans-serif;*/
+/*    font-family: sans-serif;*/
+    font-size: 10pt;
+    line-height: 1.25em;
+    text-align:justify;
+    margin-bottom: 1.0em;
+}
+.abstract.title {
+    font-weight: bold;
+/*    font-variant: small-caps;*/
+}
+
+/* -------------------------------------------------------------------------
+    Bibliography
+   ------------------------------------------------------------------------- */
+a.citation-reference, a.citation-reference:visited,
+a.fn-backref, a.fn-backref:visited
+{ 
+    color: #777777;
+}
+.bibitem {
+    font-size: 10pt;
+    padding-left:2em;
+    text-indent: -2em;
+    text-align: justify;
+    line-height: 1.2em;
+}
+.bibitem p {
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
+}
+

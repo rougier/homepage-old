@@ -45,9 +45,6 @@ interaction, i.e. embodied cognition.
 Current students
 ----------------
 
-| **2015** Barghav teja Nallapu, INRIA Internship
-| *Asynchronous decision making*
-|
 | **2015** Ikram Chraibi Kaadoud, Ph.D.
 | *Bio-inspired approach for hierarchical planification*
 |

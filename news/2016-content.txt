@@ -1,0 +1,193 @@
+
+International School of Bioelectromagnetics 
+===========================================
+:date:`April 11-16, 2016`
+
+The VIII Course of the International School of Bioelectromagnetics "Alessandro
+Chiabrera": Electromagnetic Fields and the Nervous System: Biological Effects,
+Biophysical Mechanisms, Methods, and Medical Applications, organized with COST
+Action BM1 309 will be held on 11-16 April, 2016 in Erice, Italy.
+
+I'll give a course on computational neuroscience. Program is `here
+<../downloads/Erice2016finalprogram.pdf>`_
+
+|
+
+AI Forum in Bordeaux
+====================
+:date:`March 24-25, 2016`
+
+The `AscoErgo <http://ascoergo.fr>`_ is organising the first AI forum in
+Bordeaux.  I will attend the two first days and try to answer questions about
+AI after watching Blade Runner (Thrusday) and Ex-Machina (Friday).
+
+|
+
+Verge of Discovery, Episode 35
+==============================
+:date:`March 10, 2016`
+
+I've been interviewed by Evgeniy Shishkin for the `Verge of Discovery
+<http://www.vergeofdiscovery.com/home/>`_ website. You can hear me in `episode
+35 <http://www.vergeofdiscovery.com/035-rougier/>`_
+
+|
+
+Scientific Python course (advanced)
+===================================
+:date:`March 17-18, 2016`
+
+This course aims at introducing advanced concepts of the scientific Python
+eco‐system (numpy, scipy, cython, git, OpenGL). It is intended for those with
+some experience of Python and basic knowledge of the scientific stack. Note
+that this course requires some material to be pre‐installed on your computer.
+
+See https://github.com/rougier/Scipy-Bordeaux-2016
+
+|
+
+
+Scientific Python course (beginner)
+===================================
+:date:`March 14-15, 2016`
+
+This course gives an introduction to the Python scientific ecosystem (numpy,
+matplotlib) and is intended primarily for those with little or no previous
+familiarity with Python, though those with prior experience of the language
+might pick up some useful tips. No requirements but a computer (any system).
+
+See https://github.com/rougier/Scipy-Bordeaux-2016
+
+|
+
+Post-doctoral position, Bordeaux, France
+========================================
+:date:`February 24, 2016`
+
+| Postdoctoral position in Bordeaux, France at the Neurodegenerative Diseases Institute
+| **Application Deadline 01/04/2016**.  Details & application at `INRIA website <http://www.inria.fr/en/institute/recruitment/offers/post-doctoral-research-fellowships/post-doctoral-research-fellowships/(view)/details.html?id=PNGFK026203F3VBQB6G68LOE1&LOV5=4508&LG=EN&Resultsperpage=20&nPostingID=10170&nPostingTargetID=16405&option=52&sort=DESC&nDepartmentID=19>`_
+
+|
+
+We developed a model of the basal ganglia (Piron et al., 2016) that introduces
+an action selection mechanism that is based upon the competition between a
+positive feedback through the direct pathway and a negative feedback through
+the hyperdirect pathway. The model also exploits the parallel organization of
+circuits between the basal ganglia and the cortex using segregated loops: one
+loop allows to choose the cue and one loop allows to make the actual motor
+selection. Learning occurs between the cognitive cortex and the cognitive
+striatum using a simple reinforcement learning where the values of the
+different cues are updated after each decision. As in most computational models
+of the basal ganglia, this model relies on an actor-critic architecture where
+the dopamine signal is used to encode the temporal difference prediction error
+signal in the critic (Joel et al., 2002; Khamassi et al., 2005). However, this
+algorithm is not very elaborated and its implementation is not biologically
+plausible since values are stored outside the model. The objectives of this
+postdoc is thus to review and to re-implement (Python) main actor-critic models
+of the literature in order to compare them on a common set of decision tasks
+(two-arm bandit task for example) in terms of biological plausibility and
+performances. Special attention will be given to the "Primary Value and Learned
+Value Pavlovian Learning Algorithm" model (O'Reilly, 2007) and the AGREL model
+(Roefselma et al. 2005). From these replications (that will be published in
+`ReScience <http://rescience.github.io>`_), the most plausible and compatible
+mechanisms will be implemented in our own model of the basal ganglia in order
+to replace the current reinforcement learning algorithm (Guthrie et al., 2013,
+Piron et al. 2016).
+
+|
+
+Resolving a Long-Standing Paradox
+=================================
+:date:`February 22, 2016`
+
+| **The globus pallidus pars interna in goal oriented and habitual behavior. Resolving an old standing paradox**.
+| C. Piron, D. Kase, M. Topalidou, M. Goillandeau, H. Orignac,  T. N'Guyen, N.P. Rougier, T. Boraud.
+| Movement Disorders, (2016), *to appear*.
+|
+
+**Background**: There is an apparent contradiction between experimental data
+showing that the basal ganglia are involved in goal-oriented and routine
+behaviors and clinical observations. Lesion or disruption by deep brain
+stimulation of the globus pallidus interna has been used for various
+therapeutic purposes ranging from the improvement of dystonia to the treatment
+of Tourette’s syndrome. None of these approaches has reported any severe
+impairment in goal-oriented or automatic movement. **Method**: To solve this
+conundrum, we trained 2 monkeys to perform a variant of a 2-armed bandit-task
+(with different reward contingencies). In the latter we alternated blocks of
+trials with choices between familiar rewarded targets that elicit routine
+behavior and blocks with novel pairs of targets that require an intentional
+learning process. **Results**: Bilateral inactivation of the globus pallidus
+interna, by injection of muscimol, prevents animals from learning new
+contingencies while performance remains intact, although slower for the
+familiar stimuli. We replicate in silico these data by adding lateral
+competition and Hebbian learning in the cortical layer of the theoretical model
+of the cortex–basal ganglia loop that provided the framework of our
+experimental approach. **Conclusion**: The basal ganglia play a critical role
+in the deliberative process that underlies learning but are not necessary for
+the expression of routine movements. Our approach predicts that after
+pallidotomy or during stimulation, patients should have difficulty with complex
+decision-making processes or learning new goal-oriented behaviors.
+
+|
+
+Got your badges ?
+=================
+:date:`February 18, 2016`
+
+.. image:: ../images/scipy-badge.png
+   :class: img-left
+   :target: http://www.github.com/rougier/scipy-badges
+   :width: 200px
+
+If no, go to http://scipy-lectures.org to learn scientific python then go
+to http://www.github.com/rougier/scipy-badges and build your own.
+
+|
+
+
+2nd article published in ReScience
+==================================
+:date:`February 10, 2016`
+
+`[Re] Speed/accuracy trade-off between the habitual and the goal-directed
+process <http://rescience.github.io/read/>`_, Guillaume Viejo, Benoît Girard & Mehdi Khamassi, ReScience, volume 2, issue 1, 2016.
+
+A reference implementation of *Speed/accuracy trade-off between the habitual and the goal-directed processes. M. Keramati, A. Dezfouli, P. Piray. Plos Comp Bio, 7(5), 2011.*
+
+|
+
+100 articles from 2015 in the spotlight
+=======================================
+:date:`January 19, 2016`
+
+`A Long Journey into Reproducible Computational Neuroscience
+<http://journal.frontiersin.org/article/10.3389/fncom.2015.00030/full>`_ got
+spotlighted by Frontiers:
+
+Frontiers published over 12,500 articles in 2015. Which ones were the most
+viewed and downloaded within the first month after publication? The new year is
+fast approaching, so let’s take a step back and look how far we've come. In
+2015, we published over 12,500 articles. Among all this wonderful, important
+and exciting science, which articles were the most viewed and downloaded within
+1 month after they were published?"
+
+Find them at `frontiers <http://blog.frontiersin.org/2015/12/22/spotlight100/>`_
+
+|
+
+The vain dream of electronic immortality
+========================================
+:date:`January 5, 2016`
+
+  "In just over 30 years, humans will be able to upload their entire minds to
+  computers and become digitally immortal. – Ray Kurzweil, Global Futures 2045
+  International Congress (2013)
+
+Without even considering the ethical, philosophical, social or legal scope of
+such a statement, it’s important to consider if it actually makes any sense. To
+try to give an educated guess, we have to move away from computer science and
+look at what biology and neuroscience can teach us.
+
+You can read the whole article on The Conversation (US) `here (part 1) <https://theconversation.com/silicon-soul-the-vain-dream-of-electronic-immortality-52368>`_ and `here (part 2) <https://theconversation.com/why-youll-never-be-able-to-upload-your-brain-to-the-cloud-52408>`_
+
+|

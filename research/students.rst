@@ -20,11 +20,6 @@ Current students
 
 |
 
-* | **Barghav teja Nallapu**, INRIA Internship, June 2015 to December 2015
-  | *Asynchronous decision making*
-
-|
-
 * | **Meropi Topalidou**, PhD Student, 2013-
   | *Decision making in continuous action space: from motor primitives to actions*
 
@@ -89,11 +84,14 @@ Former Post-Doctoral Fellows
 Former Internship
 =================
 
-* **Hima Metha**, INRIA Internship, June 2014 to December 2014
-  *High-scale decision making neural models*
+* | **Barghav teja Nallapu**, INRIA Internship, June 2015 to December 2015
+  | *Asynchronous decision making*
+  
+* | **Hima Metha**, INRIA Internship, June 2014 to December 2014
+  | *High-scale decision making neural models*
 
-* **Meropi Topalidou**, INRIA Internship, March 2013 to September 2013
-  *Touch and the body*
+* | **Meropi Topalidou**, INRIA Internship, March 2013 to September 2013
+  | *Touch and the body*
 
 |
 
