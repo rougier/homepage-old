@@ -38,8 +38,8 @@ Former PhD students
 * | `Wahiba Taouali <http://www.hardwork.web4me.fr>`_, 2009-2012.
   | *Dynamic neural field coupling for the temporal organisation of behavior in
     complex neural systems*.
-  | Wahiba is now a post-doctoral fellow at the Institut des Neurociences de la
-    Timone in the `InVibe team <http://invibe.net/>`_.
+  | Wahiba was a post-doctoral fellow at the Institut des Neurociences de la
+    Timone in the `InVibe team <https://laurentperrinet.github.io/author/wahiba-taouali/>`_.
 
 |
 
